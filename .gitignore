@@ -1,0 +1,40 @@
+# System and personal files
+~*
+.DS_Store
+*.tmp
+*.temp
+
+# Personal directories
+Downloads/
+Documents/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+PycharmProjects/
+Zotero/
+__pycache__/
+
+# Other projects
+evidence-management-system/
+my-dashboard-app/
+my-dashboard/
+my-new-dashboard/
+
+# Data files (unless they belong to this project)
+*.fastq
+*.fq
+*.fa
+*.fasta
+*.ipynb
+*.py
+.ipynb_checkpoints/
+*.ipynb_checkpoints/*
+*.DS_Store
+../my-first-project/
+my-first-project/
+../*.csv
+../*.sql
+../.DS_Store
+../.ipynb_checkpoints/
