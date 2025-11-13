@@ -1,0 +1,1001 @@
+transaction_id,amount,distance_from_home,merchant_category,transaction_hour,weekend_transaction,high_risk_merchant,card_present,device,country,currency,is_fraud
+TX_8ab03451,544.43,0,Restaurant,7,False,False,False,Firefox,Brazil,BRL,False
+TX_9b278186,1.46,1,Education,1,False,False,True,Magnetic Stripe,Canada,CAD,True
+TX_7f80b3c4,158.73,0,Entertainment,16,False,True,True,Chip Reader,Canada,CAD,True
+TX_7202f8a2,1074.57,0,Restaurant,15,False,False,False,Firefox,Brazil,BRL,False
+TX_75f107d6,1399.64,0,Entertainment,10,True,True,False,Firefox,Mexico,MXN,False
+TX_2337e624,191.76,0,Travel,20,False,True,False,Edge,Singapore,SGD,False
+TX_639f9bb6,545.93,0,Education,21,False,False,False,Safari,France,EUR,False
+TX_a6b24749,238.99,1,Gas,12,True,False,False,iOS App,France,EUR,False
+TX_d8e58d93,144015.31,1,Entertainment,13,False,True,True,Chip Reader,Russia,RUB,True
+TX_d808df32,5569.86,1,Education,14,False,False,True,NFC Payment,Brazil,BRL,True
+TX_ac6c746f,15.94,1,Retail,3,True,False,False,Safari,Brazil,BRL,True
+TX_0c8c4a01,54424.37,0,Entertainment,11,False,True,False,Android App,Japan,JPY,False
+TX_03467e03,2391.97,0,Travel,18,True,True,False,Chrome,Brazil,BRL,False
+TX_32d00d60,66685.16,1,Retail,3,False,False,False,Edge,Mexico,MXN,True
+TX_975dab0f,3.63,1,Gas,20,False,False,False,Android App,France,EUR,True
+TX_587a39a0,533.35,0,Retail,17,False,False,False,Firefox,Australia,AUD,False
+TX_47b3da61,1943.38,0,Healthcare,8,True,False,False,iOS App,USA,USD,False
+TX_f59da0a9,200.08,0,Grocery,19,False,False,False,Chrome,Australia,AUD,False
+TX_befdfa52,3869.52,1,Education,10,True,False,False,Android App,Brazil,BRL,True
+TX_21df325b,943.32,0,Retail,20,False,False,False,Edge,Germany,EUR,False
+TX_e5cd4328,17516.88,1,Gas,3,False,False,False,Firefox,Japan,JPY,False
+TX_d55ba9cf,27297.85,0,Gas,14,False,False,False,Chrome,Russia,RUB,False
+TX_28bf476a,153.18,0,Education,16,False,False,False,Edge,Singapore,SGD,False
+TX_2dd63c35,779.91,0,Restaurant,16,True,False,False,Android App,Australia,AUD,False
+TX_7f172f1c,153006.55,0,Travel,13,False,True,False,Edge,Japan,JPY,False
+TX_7e0cb432,4195.1,1,Grocery,7,False,False,False,Firefox,Mexico,MXN,False
+TX_bb74560d,406796.49,0,Travel,9,False,True,False,Chrome,Russia,RUB,True
+TX_6075d4f5,60449.87,1,Entertainment,7,False,True,True,Magnetic Stripe,Russia,RUB,True
+TX_1d9ec8b8,4809629.87,1,Travel,2,False,True,False,Chrome,Nigeria,NGN,True
+TX_32f38577,109662.95,0,Gas,18,False,False,False,iOS App,Nigeria,NGN,False
+TX_454f2950,188559.57,0,Retail,12,False,False,False,Firefox,Nigeria,NGN,False
+TX_5f899846,1006.76,0,Education,8,False,False,False,Chrome,Australia,AUD,False
+TX_bf98052d,36018.22,0,Education,12,True,False,False,Chrome,Japan,JPY,False
+TX_8937dd9e,23616.44,1,Retail,4,True,False,True,Chip Reader,Brazil,BRL,True
+TX_9ac5acc5,2895.47,1,Restaurant,3,True,False,True,Magnetic Stripe,Mexico,MXN,True
+TX_b5574038,143993.33,1,Education,8,True,False,True,NFC Payment,Russia,RUB,True
+TX_e702bfa4,268.94,0,Retail,23,False,False,False,Chrome,Germany,EUR,False
+TX_c42f43e0,6584.68,0,Education,8,False,False,False,Chrome,Mexico,MXN,False
+TX_15858744,416.99,0,Healthcare,17,True,False,False,iOS App,France,EUR,False
+TX_a1be76b8,702.81,1,Retail,7,True,False,False,Chrome,UK,GBP,False
+TX_3fb47098,2634.14,1,Gas,8,False,False,False,Safari,Brazil,BRL,False
+TX_aff93686,1633.74,1,Healthcare,23,False,False,True,Magnetic Stripe,France,EUR,True
+TX_74c70363,685.17,1,Restaurant,2,False,False,True,Chip Reader,Mexico,MXN,True
+TX_eb608c0c,826.39,0,Retail,12,True,False,False,Edge,USA,USD,False
+TX_8c03399f,2594.11,1,Entertainment,3,False,True,True,NFC Payment,Mexico,MXN,True
+TX_954c6924,119276.37,0,Grocery,14,False,False,False,Safari,Japan,JPY,False
+TX_0968aa2f,179.91,0,Restaurant,5,False,False,False,Android App,UK,GBP,False
+TX_63136f1d,321.53,0,Restaurant,18,False,False,False,Safari,Germany,EUR,False
+TX_8f6b3375,124.73,1,Gas,19,False,False,False,Edge,Singapore,SGD,False
+TX_3c13c26a,1986.19,0,Restaurant,22,False,False,False,iOS App,Mexico,MXN,False
+TX_680d7747,978.37,1,Healthcare,21,True,False,False,iOS App,USA,USD,True
+TX_33de0c34,1662.4,0,Entertainment,19,True,True,False,iOS App,Brazil,BRL,False
+TX_c2fbb870,201.85,0,Entertainment,12,False,True,False,Edge,USA,USD,False
+TX_5171d35a,22793.15,0,Grocery,11,True,False,False,Firefox,Japan,JPY,False
+TX_e205d124,193272.48,0,Travel,20,False,True,False,iOS App,Japan,JPY,False
+TX_fc5209fb,1488.33,0,Education,22,False,False,False,Android App,Australia,AUD,False
+TX_7febb5cd,427.49,0,Education,8,True,False,False,Edge,Singapore,SGD,False
+TX_f12f810f,31576.43,0,Education,6,False,False,False,Safari,Russia,RUB,False
+TX_9704acee,32791.86,0,Retail,22,False,False,False,iOS App,Japan,JPY,False
+TX_50dddd88,245.51,0,Education,11,False,False,False,iOS App,UK,GBP,False
+TX_6e895fa5,238.12,1,Grocery,6,True,False,False,Firefox,France,EUR,False
+TX_9356e6d4,668.04,0,Healthcare,20,False,False,False,Firefox,Australia,AUD,False
+TX_e0ebf0d5,77582.3,1,Education,1,False,False,False,iOS App,Russia,RUB,True
+TX_60f5fcb9,45995.19,0,Healthcare,9,False,False,False,Edge,Russia,RUB,False
+TX_b79b8f8b,105395.78,0,Grocery,7,False,False,False,Safari,Nigeria,NGN,False
+TX_a56566fb,21.61,1,Retail,3,False,False,False,Edge,Brazil,BRL,True
+TX_ca00271a,54241.13,0,Gas,13,False,False,False,Edge,Japan,JPY,False
+TX_adbb785c,622.44,0,Healthcare,16,False,False,False,Edge,Canada,CAD,False
+TX_c543ab0b,401.23,0,Retail,11,False,False,False,Edge,USA,USD,False
+TX_008bdc1b,15214.83,0,Retail,9,True,False,False,Chrome,Mexico,MXN,False
+TX_707f8af8,6553.89,0,Gas,11,True,False,False,iOS App,Mexico,MXN,False
+TX_d8929f5c,241.13,0,Restaurant,7,True,False,False,Edge,UK,GBP,False
+TX_b9b6cf6d,12375.76,0,Travel,23,False,True,False,Firefox,Brazil,BRL,False
+TX_8bafe64c,1386.39,0,Retail,16,False,False,False,iOS App,Singapore,SGD,False
+TX_9ceb2a17,818.02,1,Travel,4,False,True,False,Safari,Australia,AUD,False
+TX_5ff95d4b,648.38,0,Education,17,False,False,False,Android App,USA,USD,False
+TX_c732867c,6298.25,0,Retail,9,False,False,False,iOS App,Japan,JPY,False
+TX_b975610a,9125.68,0,Grocery,13,False,False,False,Edge,Brazil,BRL,False
+TX_48de478e,398250.55,1,Healthcare,17,False,False,False,Firefox,Nigeria,NGN,True
+TX_80a7ffff,897.98,0,Education,17,False,False,False,Firefox,Australia,AUD,False
+TX_09682f28,342.32,1,Restaurant,23,False,False,False,Firefox,Australia,AUD,False
+TX_07fae77f,324.68,0,Entertainment,18,False,True,False,Firefox,USA,USD,False
+TX_a166fde4,53758.19,0,Retail,6,False,False,False,Chrome,Japan,JPY,False
+TX_9c673fe0,291430.98,0,Travel,2,True,True,True,Magnetic Stripe,Japan,JPY,True
+TX_d2a1e74b,247.37,0,Entertainment,11,False,True,False,Android App,UK,GBP,False
+TX_364a83da,210.73,0,Retail,22,False,False,False,Android App,UK,GBP,False
+TX_2b02a336,36077.81,0,Retail,6,False,False,False,Edge,Nigeria,NGN,False
+TX_40c5c2cd,1282.95,0,Entertainment,9,False,True,False,iOS App,Brazil,BRL,False
+TX_16b19763,481.1,1,Restaurant,17,True,False,False,iOS App,Brazil,BRL,False
+TX_6c01d93e,0.86,1,Restaurant,5,True,False,True,Magnetic Stripe,Brazil,BRL,True
+TX_44515c2b,152.74,0,Entertainment,10,False,True,False,Firefox,Australia,AUD,False
+TX_b1d8f8ff,185538.0,1,Education,2,False,False,False,iOS App,Russia,RUB,True
+TX_874598a1,413.21,0,Healthcare,18,False,False,False,Safari,USA,USD,False
+TX_f655c2b2,2078.17,0,Travel,14,False,True,False,Safari,UK,GBP,False
+TX_4e4e6789,324276.21,0,Grocery,2,False,False,True,Chip Reader,Nigeria,NGN,True
+TX_36ee6975,704.0,0,Travel,17,True,True,False,Chrome,Mexico,MXN,False
+TX_8ac442dc,780.46,1,Grocery,22,False,False,False,Safari,Singapore,SGD,False
+TX_3afe9a8a,12193.77,1,Travel,18,False,True,False,Chrome,Brazil,BRL,True
+TX_e0c7edbd,1390.46,1,Travel,4,False,True,False,Safari,USA,USD,True
+TX_18e464f8,792.81,0,Restaurant,8,False,False,False,Android App,Brazil,BRL,False
+TX_9b024932,74097.46,0,Education,8,False,False,False,iOS App,Russia,RUB,False
+TX_7fdbf831,528.69,1,Gas,5,False,False,False,Safari,USA,USD,False
+TX_f7f6f3fb,24.95,1,Restaurant,12,False,False,True,Magnetic Stripe,Brazil,BRL,True
+TX_653732b2,26801.02,0,Travel,19,False,True,False,Chrome,Mexico,MXN,False
+TX_e5e7ef11,26220.59,0,Healthcare,9,True,False,False,Safari,Russia,RUB,False
+TX_d6719547,121.07,0,Travel,11,True,True,False,Chrome,USA,USD,False
+TX_b407aa8b,2476.09,1,Retail,4,True,False,True,NFC Payment,Germany,EUR,True
+TX_f277a4cb,121.23,0,Retail,11,False,False,False,Firefox,UK,GBP,False
+TX_65d51913,3021.92,1,Grocery,5,False,False,True,Magnetic Stripe,Brazil,BRL,True
+TX_478ec0d9,8232.61,1,Gas,19,False,False,False,Android App,Brazil,BRL,True
+TX_e88daf1b,958.36,0,Entertainment,11,False,True,False,iOS App,Brazil,BRL,False
+TX_0af77445,2271.38,0,Travel,19,False,True,False,Android App,Australia,AUD,False
+TX_d29ff3eb,4983.46,0,Gas,13,False,False,False,Firefox,Mexico,MXN,False
+TX_5380b589,934.68,0,Restaurant,18,True,False,False,Edge,Brazil,BRL,False
+TX_2ec372aa,310888.2,0,Retail,16,False,False,False,iOS App,Nigeria,NGN,False
+TX_63dd69b9,269.7,0,Healthcare,8,False,False,False,Firefox,UK,GBP,False
+TX_1e8d74e0,6.54,1,Gas,2,False,False,True,Chip Reader,Brazil,BRL,True
+TX_98c90a59,46222.41,1,Gas,8,False,False,True,Magnetic Stripe,Mexico,MXN,True
+TX_696d5729,9096.18,1,Travel,7,False,True,False,Firefox,Brazil,BRL,False
+TX_b860f633,46.3,1,Education,1,False,False,True,Magnetic Stripe,Mexico,MXN,True
+TX_f292325f,2061.87,0,Restaurant,11,False,False,False,iOS App,Nigeria,NGN,True
+TX_adcdf6dc,481.52,0,Education,14,False,False,False,Firefox,Singapore,SGD,False
+TX_bd5dbcec,520.58,0,Travel,7,False,True,False,Safari,UK,GBP,False
+TX_7cf6ee6a,1622.85,1,Gas,18,False,False,False,Firefox,USA,USD,True
+TX_1731c8af,13841.21,0,Entertainment,6,False,True,False,Edge,Russia,RUB,False
+TX_6327f080,54.56,1,Restaurant,12,False,False,False,iOS App,France,EUR,False
+TX_79a1a167,19892.64,0,Restaurant,17,True,False,False,Android App,Russia,RUB,False
+TX_05d0493c,55062.58,1,Entertainment,22,False,True,True,Chip Reader,Nigeria,NGN,True
+TX_35ba9822,563.91,0,Entertainment,12,False,True,False,Safari,France,EUR,False
+TX_56f2ab50,2741.73,0,Entertainment,18,False,True,False,Android App,Brazil,BRL,False
+TX_0c975340,175632.3,1,Healthcare,4,True,False,False,iOS App,Russia,RUB,True
+TX_5f597153,448.83,0,Entertainment,6,False,True,False,Android App,Germany,EUR,False
+TX_a78a0b85,86.06,0,Travel,19,True,True,False,Safari,France,EUR,False
+TX_8d465173,5182.28,0,Healthcare,11,False,False,False,Edge,Mexico,MXN,False
+TX_50c87de7,22158.86,0,Entertainment,14,False,True,False,Edge,Russia,RUB,False
+TX_431bf25a,6898.07,1,Grocery,15,False,False,True,NFC Payment,Brazil,BRL,True
+TX_77cc54f8,1694.44,0,Travel,20,False,True,False,Firefox,Australia,AUD,False
+TX_07709344,236521.78,1,Retail,6,False,False,True,Magnetic Stripe,Nigeria,NGN,True
+TX_7555759a,29528.94,0,Grocery,11,True,False,False,Firefox,Russia,RUB,False
+TX_6787aa2a,397.46,0,Education,15,True,False,False,Edge,Germany,EUR,False
+TX_d26480cd,972.28,0,Travel,12,False,True,False,iOS App,France,EUR,False
+TX_ee9da6b5,439.63,0,Education,7,False,False,False,Chrome,Canada,CAD,False
+TX_916fa7f7,37018.9,0,Travel,19,False,True,False,Chrome,Japan,JPY,False
+TX_d864cbf1,26.94,1,Healthcare,2,True,False,True,Magnetic Stripe,Mexico,MXN,True
+TX_8811f2c4,44041.83,1,Healthcare,4,False,False,False,Android App,Mexico,MXN,True
+TX_0b002556,12316.0,1,Entertainment,0,False,True,False,Edge,Japan,JPY,False
+TX_a73a629a,896.58,0,Grocery,18,False,False,False,iOS App,Brazil,BRL,False
+TX_89550afc,321.89,0,Education,15,False,False,False,Android App,France,EUR,False
+TX_357bc5e1,260.08,0,Retail,12,False,False,False,Edge,Canada,CAD,False
+TX_c96f8df1,48245.96,0,Gas,8,True,False,False,Safari,Japan,JPY,False
+TX_8dba7e26,253.46,0,Grocery,12,True,False,False,Android App,France,EUR,False
+TX_34e1074d,663.4,0,Restaurant,13,False,False,False,Edge,Singapore,SGD,False
+TX_babf0119,2789.77,0,Travel,20,False,True,False,iOS App,Singapore,SGD,False
+TX_f8dd0848,197986.14,0,Education,12,False,False,False,Edge,Nigeria,NGN,False
+TX_06370aaa,1093.49,1,Retail,2,False,False,False,Chrome,Germany,EUR,True
+TX_80744ac9,64.69,1,Restaurant,3,False,False,False,iOS App,Mexico,MXN,True
+TX_a3af5278,420.81,0,Grocery,18,False,False,False,Safari,USA,USD,False
+TX_161f2b14,213.92,1,Gas,19,False,False,False,Chrome,Singapore,SGD,False
+TX_583abe2f,829498.27,1,Healthcare,12,False,False,True,Magnetic Stripe,Nigeria,NGN,True
+TX_91fbc00d,594489.06,1,Healthcare,2,True,False,False,Edge,Nigeria,NGN,True
+TX_7f74a224,29883.82,0,Grocery,15,True,False,False,iOS App,Russia,RUB,False
+TX_2a9090fc,33018.55,1,Education,18,True,False,False,Safari,Russia,RUB,False
+TX_145cd3f7,319.66,0,Gas,6,True,False,False,Android App,UK,GBP,False
+TX_ace08d03,483.78,0,Grocery,18,False,False,False,Safari,Canada,CAD,False
+TX_6e6ad935,223.95,0,Entertainment,12,False,True,False,Safari,France,EUR,False
+TX_c73cc04c,73595.95,0,Entertainment,2,True,True,False,Firefox,Nigeria,NGN,False
+TX_66495c93,388.66,0,Entertainment,8,False,True,False,Firefox,France,EUR,False
+TX_14d77b7d,14636.26,0,Gas,13,False,False,False,Safari,Japan,JPY,False
+TX_67606f5e,409789.98,1,Gas,19,False,False,False,Firefox,Nigeria,NGN,True
+TX_40052412,10303.45,0,Travel,15,True,True,False,iOS App,Brazil,BRL,False
+TX_287c984f,379.79,1,Grocery,18,False,False,False,iOS App,Australia,AUD,False
+TX_d8564b2f,241.65,1,Grocery,9,False,False,False,Android App,Russia,RUB,True
+TX_9e6153f9,4592.6,1,Entertainment,12,True,True,False,Firefox,Mexico,MXN,False
+TX_ceb2e6a8,350.44,0,Restaurant,17,True,False,False,Safari,UK,GBP,False
+TX_49d86c4f,684.85,0,Retail,8,True,False,False,Chrome,UK,GBP,False
+TX_ca2a3284,27035.83,1,Gas,17,False,False,False,Firefox,Russia,RUB,False
+TX_cdd4fd5c,2577.03,0,Gas,0,False,False,False,Chrome,Singapore,SGD,True
+TX_c368bc73,23725.7,0,Restaurant,8,True,False,False,Edge,Russia,RUB,False
+TX_ff22d43c,351.07,0,Gas,6,False,False,False,Firefox,UK,GBP,False
+TX_dabeccbc,676.14,1,Healthcare,15,False,False,False,Firefox,Germany,EUR,True
+TX_27efddb7,368.08,1,Entertainment,20,False,True,False,Android App,USA,USD,False
+TX_748960e8,5.41,1,Grocery,1,False,False,True,NFC Payment,Brazil,BRL,True
+TX_abe06fda,1106.05,0,Travel,17,False,True,False,Firefox,USA,USD,False
+TX_63482e08,7074.61,0,Entertainment,18,False,True,False,Edge,Mexico,MXN,False
+TX_a41d0f1e,848252.7,1,Gas,11,False,False,True,Chip Reader,Nigeria,NGN,True
+TX_a79f734e,255.57,1,Grocery,10,True,False,False,Android App,Russia,RUB,True
+TX_5668b9f5,45186.0,1,Gas,7,False,False,True,Chip Reader,Russia,RUB,True
+TX_bcaae3b8,5.08,1,Travel,6,False,True,True,Chip Reader,Canada,CAD,True
+TX_d6191084,175.92,0,Travel,9,False,True,False,Safari,Germany,EUR,False
+TX_3b23c4ca,2345.59,0,Grocery,19,False,False,False,Android App,Australia,AUD,False
+TX_d2619023,172912.87,0,Healthcare,8,False,False,False,Android App,Nigeria,NGN,False
+TX_87655e21,658.96,0,Retail,0,False,False,False,Chrome,Canada,CAD,False
+TX_48531468,2191.36,0,Restaurant,7,False,False,False,Chrome,Singapore,SGD,False
+TX_62db90a3,782823.93,1,Entertainment,19,False,True,True,Magnetic Stripe,Nigeria,NGN,True
+TX_bfa70268,2022.33,1,Grocery,18,False,False,False,Firefox,Brazil,BRL,False
+TX_d6d82e23,7698.48,0,Entertainment,6,False,True,False,Safari,Mexico,MXN,False
+TX_f0a6b6a4,484.57,0,Retail,11,False,False,False,iOS App,USA,USD,False
+TX_11b92bec,7674.81,0,Restaurant,3,True,False,False,Firefox,Mexico,MXN,False
+TX_0717d39e,3410.72,0,Healthcare,20,False,False,False,Firefox,Brazil,BRL,False
+TX_7fa698ec,1416.33,0,Travel,17,False,True,False,iOS App,Singapore,SGD,False
+TX_da8d1b7e,2030.23,1,Grocery,2,True,False,True,NFC Payment,Brazil,BRL,True
+TX_6da3a112,95368.19,1,Entertainment,7,False,True,False,Safari,Nigeria,NGN,False
+TX_e73ad242,400.78,0,Restaurant,12,False,False,False,Safari,Canada,CAD,False
+TX_799ee085,2650.75,0,Travel,11,False,True,False,Chrome,Australia,AUD,False
+TX_f3b71f2b,46300.67,1,Entertainment,21,True,True,True,Magnetic Stripe,Russia,RUB,True
+TX_77d63ad4,8485.9,1,Entertainment,4,False,True,False,Edge,Mexico,MXN,True
+TX_9643f35c,32104.85,1,Grocery,1,False,False,True,NFC Payment,Mexico,MXN,True
+TX_57da1c05,573.33,0,Healthcare,16,False,False,False,iOS App,Australia,AUD,False
+TX_76aff757,6557.53,1,Healthcare,17,True,False,False,iOS App,Brazil,BRL,True
+TX_bebd99a3,400.81,0,Healthcare,11,False,False,False,iOS App,Germany,EUR,False
+TX_af1f9d07,308.59,0,Restaurant,14,False,False,False,Android App,Canada,CAD,False
+TX_cd940225,1034.63,1,Travel,22,False,True,False,Safari,Canada,CAD,False
+TX_bdd92bdd,1206.48,1,Healthcare,13,True,False,False,iOS App,USA,USD,False
+TX_276ea189,1813.04,0,Travel,1,False,True,False,Edge,USA,USD,False
+TX_1aeedbf6,1622.29,0,Grocery,23,True,False,False,iOS App,Germany,EUR,False
+TX_36c4a13d,469.46,0,Education,15,False,False,False,Android App,Canada,CAD,False
+TX_ea6f6dff,31393.81,1,Education,6,False,False,False,Chrome,Mexico,MXN,True
+TX_dff0a603,40721.79,0,Travel,17,False,True,False,Chrome,Russia,RUB,False
+TX_a587c557,35836.13,0,Retail,1,True,False,False,Edge,Russia,RUB,False
+TX_cde621dd,507.3,0,Education,8,False,False,False,Safari,USA,USD,False
+TX_8b951542,283.62,1,Grocery,22,False,False,False,Android App,France,EUR,False
+TX_540afc02,271.19,1,Restaurant,18,False,False,False,iOS App,Australia,AUD,False
+TX_2c04a9b2,113.37,0,Entertainment,13,False,True,False,Edge,Canada,CAD,False
+TX_5c4218c6,102971.07,0,Grocery,18,False,False,False,Edge,Nigeria,NGN,False
+TX_e7766088,1257.85,0,Gas,18,True,False,False,Android App,Mexico,MXN,False
+TX_e9658110,181.62,0,Travel,19,True,True,False,Edge,UK,GBP,False
+TX_34dcfb95,139865.88,0,Education,5,False,False,False,Firefox,Nigeria,NGN,False
+TX_cd66d331,174243.34,1,Healthcare,11,True,False,True,Chip Reader,Russia,RUB,True
+TX_6b2ddc2a,404.38,1,Education,17,False,False,False,Firefox,France,EUR,False
+TX_99ef2250,9657.15,0,Healthcare,22,True,False,False,Edge,Mexico,MXN,False
+TX_34831be5,33954.81,0,Healthcare,4,True,False,True,NFC Payment,Mexico,MXN,True
+TX_4b72fe60,533.21,0,Travel,15,False,True,False,Chrome,Australia,AUD,False
+TX_1ab9030f,79997.38,0,Restaurant,7,False,False,False,Chrome,Japan,JPY,False
+TX_46bf2d71,5055.1,1,Education,13,True,False,False,Chrome,Brazil,BRL,True
+TX_78a1ab85,13278.82,0,Healthcare,10,False,False,False,Firefox,Mexico,MXN,False
+TX_5752d49e,1514199.23,1,Travel,7,False,True,True,Magnetic Stripe,Nigeria,NGN,True
+TX_156aa1bd,249220.0,1,Grocery,2,False,False,False,Edge,Nigeria,NGN,True
+TX_2299e831,20618.56,0,Travel,18,True,True,False,iOS App,Russia,RUB,False
+TX_11bb6dd6,264.02,0,Entertainment,12,True,True,False,Edge,Australia,AUD,False
+TX_afd56a51,414.39,1,Travel,1,False,True,True,NFC Payment,Australia,AUD,True
+TX_68c713d0,19.33,1,Retail,2,False,False,True,Magnetic Stripe,Brazil,BRL,True
+TX_2bf14377,1244.27,0,Retail,21,False,False,False,iOS App,Australia,AUD,False
+TX_61dc2e85,859325.47,1,Healthcare,4,False,False,False,Firefox,Nigeria,NGN,True
+TX_bb9a2247,327.73,0,Entertainment,7,True,True,False,Chrome,Australia,AUD,False
+TX_86130420,577.66,0,Healthcare,12,True,False,False,Firefox,Australia,AUD,False
+TX_67a10262,222.15,0,Gas,11,False,False,False,Chrome,UK,GBP,False
+TX_1992ef03,3936.32,0,Travel,16,False,True,False,Edge,Australia,AUD,False
+TX_e51d3f5b,286.73,0,Healthcare,5,False,False,False,Android App,Germany,EUR,False
+TX_d6649d4b,394.93,0,Grocery,6,False,False,False,Firefox,Singapore,SGD,False
+TX_e57c9f25,595.15,0,Retail,11,False,False,False,Android App,Canada,CAD,False
+TX_8e5c27d9,466.17,0,Education,9,True,False,False,Firefox,USA,USD,False
+TX_40c2c063,232720.35,0,Healthcare,13,False,False,False,Safari,Nigeria,NGN,False
+TX_a1dae6e2,1866.45,0,Gas,22,False,False,False,iOS App,Brazil,BRL,False
+TX_7556eca8,113281.28,1,Gas,3,False,False,False,iOS App,Russia,RUB,True
+TX_c31e452b,16959.23,0,Grocery,12,False,False,False,Edge,Russia,RUB,False
+TX_7db38a48,101.05,0,Entertainment,18,False,True,False,iOS App,Australia,AUD,False
+TX_4ee04688,268.17,1,Healthcare,18,False,False,False,Android App,France,EUR,False
+TX_109cbe96,34700.4,1,Entertainment,14,False,True,False,Safari,Japan,JPY,False
+TX_03c32bad,3012.24,0,Entertainment,15,True,True,False,Safari,Brazil,BRL,False
+TX_c40ad347,568.81,0,Retail,12,False,False,False,Android App,USA,USD,False
+TX_2f02cc85,305.27,1,Grocery,6,False,False,False,Safari,Germany,EUR,False
+TX_e43abff7,435.0,0,Restaurant,18,False,False,False,Firefox,France,EUR,False
+TX_0e3251f7,5210.02,0,Restaurant,13,False,False,False,iOS App,Japan,JPY,False
+TX_e27aea9c,4276.5,0,Travel,0,True,True,False,Safari,Brazil,BRL,False
+TX_638a10a1,29419.95,0,Travel,20,True,True,False,Firefox,Japan,JPY,False
+TX_87d1133d,506689.4,1,Education,10,False,False,False,Safari,Nigeria,NGN,True
+TX_d9bb6aa9,43774.03,0,Travel,10,False,True,False,Edge,Japan,JPY,False
+TX_6c61a40a,1419.65,0,Travel,11,False,True,False,Edge,France,EUR,False
+TX_b6945060,678.52,0,Gas,15,False,False,False,Edge,Singapore,SGD,False
+TX_9853d0f2,1317.18,0,Grocery,5,False,False,False,Chrome,UK,GBP,False
+TX_3710cdcc,11.93,1,Grocery,4,True,False,False,Safari,Mexico,MXN,True
+TX_3306348d,128.01,0,Gas,19,False,False,False,Safari,USA,USD,False
+TX_5bd55744,1859.99,0,Healthcare,17,False,False,False,Android App,Singapore,SGD,False
+TX_00a0fae3,31179.75,1,Grocery,7,False,False,False,Edge,Japan,JPY,False
+TX_facf233f,40715.04,0,Travel,6,True,True,False,iOS App,Nigeria,NGN,False
+TX_af35f495,198.99,0,Grocery,13,False,False,False,Android App,Canada,CAD,False
+TX_b1f98df1,65038.06,0,Education,7,False,False,False,Safari,Japan,JPY,False
+TX_b0c43e4b,674.03,0,Retail,17,False,False,False,Android App,Singapore,SGD,False
+TX_7f9360f4,31553.18,0,Restaurant,8,False,False,False,Chrome,Russia,RUB,False
+TX_195f8ab2,402.18,1,Retail,22,True,False,False,Safari,France,EUR,False
+TX_618b47bb,38915.31,0,Education,18,False,False,False,iOS App,Japan,JPY,False
+TX_f2de5b5a,3380.49,1,Grocery,4,False,False,True,Chip Reader,Brazil,BRL,True
+TX_9d165102,17605.19,0,Grocery,17,False,False,False,Firefox,Russia,RUB,False
+TX_746b618c,1108.77,0,Education,6,False,False,False,iOS App,UK,GBP,False
+TX_79753ca1,182.91,0,Travel,11,False,True,False,Edge,Germany,EUR,False
+TX_36c21ae5,8655.37,0,Healthcare,21,True,False,False,Safari,Mexico,MXN,False
+TX_7c24c325,10232.44,0,Restaurant,21,False,False,False,Firefox,Russia,RUB,False
+TX_16e502e3,91839.17,0,Gas,17,False,False,False,iOS App,Japan,JPY,False
+TX_38c87ca3,654.96,0,Healthcare,8,False,False,False,Edge,Singapore,SGD,False
+TX_ab3db5fb,1132.31,0,Grocery,12,False,False,False,Chrome,USA,USD,False
+TX_0582be37,6186.05,0,Retail,18,False,False,False,iOS App,Mexico,MXN,False
+TX_02b4f268,9575.73,0,Gas,3,True,False,False,Android App,Brazil,BRL,False
+TX_c2c76373,425.3,0,Grocery,13,False,False,False,Android App,UK,GBP,False
+TX_2f5aa9ce,435.72,0,Retail,1,False,False,False,Edge,Germany,EUR,False
+TX_d9d73ead,72.3,0,Healthcare,22,False,False,False,Firefox,Germany,EUR,False
+TX_15454b6a,1066.09,0,Retail,1,False,False,False,iOS App,Brazil,BRL,False
+TX_841ec133,860.17,0,Retail,8,False,False,False,Android App,Canada,CAD,False
+TX_23bf034a,17450.65,1,Gas,23,False,False,True,Chip Reader,Mexico,MXN,True
+TX_38f05790,591343.43,1,Travel,13,False,True,True,NFC Payment,Nigeria,NGN,True
+TX_ec58cfea,275.32,0,Gas,21,False,False,False,Firefox,France,EUR,False
+TX_4362502b,9522.8,1,Grocery,6,True,False,False,Safari,Brazil,BRL,True
+TX_7b8c1a4f,1440.18,1,Travel,6,False,True,False,iOS App,Australia,AUD,False
+TX_f5e16222,689.94,0,Travel,10,True,True,False,Chrome,UK,GBP,False
+TX_9f0ab17e,2840.87,0,Travel,9,False,True,False,Safari,Singapore,SGD,False
+TX_ebc6fd1d,281.39,0,Retail,9,False,False,False,Android App,France,EUR,False
+TX_f73cbd92,7413.06,1,Grocery,3,False,False,True,Chip Reader,Brazil,BRL,True
+TX_867f32a2,843.42,1,Grocery,3,False,False,False,Android App,Nigeria,NGN,True
+TX_bb229036,1284.09,0,Gas,23,False,False,False,Android App,Singapore,SGD,False
+TX_096b5138,369.06,1,Entertainment,2,False,True,False,Edge,Russia,RUB,True
+TX_87b07f7e,7162.6,0,Education,11,True,False,False,Firefox,Mexico,MXN,False
+TX_1f4dc8e8,3927.63,0,Entertainment,4,False,True,False,iOS App,Mexico,MXN,False
+TX_2cab2b39,12051.49,0,Healthcare,9,True,False,False,Android App,Russia,RUB,False
+TX_198eae8d,1307.08,1,Gas,20,False,False,False,Chrome,UK,GBP,True
+TX_1ef85fbd,48099.07,0,Restaurant,4,False,False,False,Safari,Nigeria,NGN,False
+TX_f9ea0cb8,1234.31,1,Education,0,False,False,False,Chrome,Singapore,SGD,False
+TX_f1414ee9,42113.92,0,Travel,20,False,True,False,Edge,Nigeria,NGN,False
+TX_d6eaaad9,3236.47,0,Education,7,False,False,False,Chrome,Brazil,BRL,False
+TX_9ba161f0,155.1,0,Travel,14,False,True,False,Chrome,Australia,AUD,False
+TX_bc90451d,219.9,0,Grocery,9,True,False,False,iOS App,Germany,EUR,False
+TX_5055033e,2337.56,0,Travel,10,False,True,False,Edge,Canada,CAD,False
+TX_d1482797,1163.9,0,Travel,18,False,True,False,Firefox,Brazil,BRL,False
+TX_ee874f11,46532.9,1,Gas,16,False,False,False,Firefox,Russia,RUB,False
+TX_6be2214c,9023.4,0,Retail,5,False,False,False,Chrome,Mexico,MXN,False
+TX_fe12ee02,4553.46,1,Entertainment,3,False,True,False,Firefox,Brazil,BRL,True
+TX_94644630,531.63,0,Education,3,False,False,False,Chrome,USA,USD,False
+TX_5cac527e,237.82,1,Education,19,False,False,False,Android App,UK,GBP,False
+TX_cede422c,609.2,1,Travel,4,True,True,False,Chrome,Australia,AUD,False
+TX_926fe6c1,696.3,0,Education,1,False,False,False,Firefox,USA,USD,False
+TX_68a01ab9,34544.65,0,Entertainment,13,True,True,False,iOS App,Russia,RUB,False
+TX_9942a566,252.73,0,Grocery,2,False,False,False,Safari,France,EUR,False
+TX_3b390c2c,2030.61,0,Gas,22,False,False,False,iOS App,Brazil,BRL,False
+TX_8ec6bc8c,0.71,1,Travel,11,False,True,True,Chip Reader,Brazil,BRL,True
+TX_ce9bcc13,2701.64,0,Grocery,6,False,False,False,Edge,Brazil,BRL,False
+TX_393c220d,1411.96,0,Entertainment,13,True,True,False,Safari,USA,USD,False
+TX_6737a4e7,141.81,0,Gas,7,False,False,False,Chrome,USA,USD,False
+TX_1db4acbd,558.25,0,Gas,23,True,False,False,iOS App,Singapore,SGD,False
+TX_8de64760,194.69,0,Entertainment,9,False,True,False,Safari,USA,USD,False
+TX_3d54b1f1,527.03,1,Entertainment,1,False,True,True,NFC Payment,Brazil,BRL,True
+TX_f4db4377,532.88,0,Retail,0,False,False,False,Edge,Canada,CAD,False
+TX_619152a1,36.34,1,Restaurant,1,False,False,False,Safari,Mexico,MXN,True
+TX_b4ccb630,1336.88,0,Gas,23,False,False,False,Android App,Singapore,SGD,False
+TX_5c92f5ed,650.13,0,Entertainment,8,False,True,False,Safari,USA,USD,False
+TX_f5ab0de7,22121.59,0,Gas,9,False,False,False,Edge,Japan,JPY,False
+TX_50f281fd,21781.6,0,Grocery,17,True,False,False,iOS App,Russia,RUB,False
+TX_6764c76e,20726.11,0,Retail,7,True,False,False,iOS App,Mexico,MXN,False
+TX_a01500b8,35411.67,0,Grocery,5,False,False,False,Android App,Japan,JPY,False
+TX_e91d639c,20.57,1,Restaurant,18,True,False,False,Chrome,Brazil,BRL,True
+TX_9912a34e,165270.56,1,Healthcare,10,True,False,False,Firefox,Russia,RUB,True
+TX_f52dfd98,101.05,0,Entertainment,11,True,True,False,iOS App,Germany,EUR,False
+TX_975fdb11,1394.76,0,Retail,16,False,False,False,Firefox,Germany,EUR,False
+TX_a4f66b02,1007.37,0,Gas,14,False,False,False,Chrome,Singapore,SGD,False
+TX_746478ed,11481.41,0,Grocery,10,False,False,False,Safari,Mexico,MXN,False
+TX_68114587,380.5,1,Retail,23,False,False,False,Edge,USA,USD,False
+TX_b15e95d8,619.52,1,Grocery,8,True,False,False,iOS App,Germany,EUR,False
+TX_bc35aa64,1214.24,0,Healthcare,22,False,False,False,Chrome,Brazil,BRL,False
+TX_f0713cf5,802.45,1,Travel,7,False,True,False,Android App,USA,USD,False
+TX_621be007,12.65,1,Education,2,False,False,True,Magnetic Stripe,Brazil,BRL,True
+TX_9892ceda,42230.99,0,Grocery,16,True,False,False,iOS App,Nigeria,NGN,False
+TX_86982fb7,133.72,0,Entertainment,6,False,True,False,Edge,UK,GBP,False
+TX_7fe66bce,394.18,0,Education,11,False,False,False,iOS App,Germany,EUR,False
+TX_8368f05a,170109.81,1,Gas,2,True,False,False,Edge,Russia,RUB,True
+TX_b1f8d4f5,1397.95,0,Gas,9,False,False,False,Firefox,Canada,CAD,False
+TX_b6eee246,246.62,0,Entertainment,17,True,True,False,Android App,Canada,CAD,False
+TX_0b6771ad,159188.78,1,Gas,12,True,False,False,Firefox,Russia,RUB,True
+TX_7a300fa3,592334.26,0,Travel,7,True,True,False,Safari,Nigeria,NGN,False
+TX_e039f1d6,974063.41,0,Travel,1,True,True,False,Safari,Nigeria,NGN,False
+TX_761fce9e,128.97,0,Entertainment,17,False,True,False,iOS App,Singapore,SGD,False
+TX_a480de1b,3884290.05,1,Travel,1,True,True,True,Magnetic Stripe,Nigeria,NGN,True
+TX_3fab5bd5,787.93,0,Retail,16,True,False,False,Safari,France,EUR,False
+TX_a07d23cb,232.86,1,Gas,19,True,False,False,Edge,Russia,RUB,True
+TX_eb19ea2d,34044.42,1,Entertainment,15,False,True,False,Android App,Japan,JPY,False
+TX_711dd3ed,722.57,0,Education,10,False,False,False,Safari,UK,GBP,False
+TX_9642cd65,2.45,1,Entertainment,4,False,True,False,Firefox,UK,GBP,True
+TX_8edf434a,201.45,0,Entertainment,18,False,True,False,iOS App,USA,USD,False
+TX_b20b22ff,15210.36,1,Restaurant,4,False,False,False,Chrome,Mexico,MXN,True
+TX_8ed3b960,79028.27,0,Healthcare,15,False,False,False,Chrome,Russia,RUB,False
+TX_060e86cb,2232.6,1,Grocery,15,False,False,True,NFC Payment,Brazil,BRL,True
+TX_0e5605fe,19.45,1,Retail,10,False,False,False,Edge,Brazil,BRL,True
+TX_773d0e95,1572.28,0,Restaurant,10,False,False,False,Firefox,USA,USD,False
+TX_860f151d,767.45,1,Restaurant,0,False,False,False,Edge,USA,USD,False
+TX_a138a23d,86306.32,0,Entertainment,19,False,True,False,Safari,Nigeria,NGN,False
+TX_7176cedb,567.21,1,Grocery,9,False,False,False,Chrome,Australia,AUD,False
+TX_7fcd7f1b,81589.93,0,Retail,17,False,False,False,Firefox,Nigeria,NGN,False
+TX_d3eb5f18,393.62,0,Restaurant,15,False,False,False,iOS App,Germany,EUR,False
+TX_db249a90,474.97,0,Entertainment,19,False,True,False,Chrome,Germany,EUR,False
+TX_3840ccd5,370.2,0,Grocery,12,False,False,False,Chrome,USA,USD,False
+TX_c64f24d8,9742.3,0,Gas,17,False,False,False,Safari,Mexico,MXN,False
+TX_e3f8ad91,418.21,1,Grocery,4,False,False,False,Edge,Brazil,BRL,False
+TX_58080ee6,280.48,1,Education,8,True,False,False,Android App,UK,GBP,False
+TX_ad956c11,30914.55,0,Restaurant,21,False,False,False,Android App,Japan,JPY,False
+TX_4a1a0874,9868.34,1,Restaurant,0,False,False,False,Firefox,Russia,RUB,True
+TX_04b76492,47906.01,0,Entertainment,14,False,True,False,Android App,Nigeria,NGN,False
+TX_4543507e,7750.93,1,Restaurant,11,False,False,False,Edge,Mexico,MXN,False
+TX_be748c86,104342.44,0,Travel,15,False,True,False,Chrome,Japan,JPY,False
+TX_978fb1c7,428.32,0,Education,18,False,False,False,Edge,France,EUR,False
+TX_62022388,284.71,0,Healthcare,14,False,False,False,iOS App,UK,GBP,False
+TX_309d69b5,5693.25,0,Restaurant,4,False,False,False,Android App,Mexico,MXN,False
+TX_933c8b5d,110852.94,0,Healthcare,14,False,False,False,Edge,Russia,RUB,False
+TX_01adab38,9097.22,0,Restaurant,4,False,False,False,Chrome,Russia,RUB,False
+TX_055d0311,15039.3,0,Retail,15,True,False,False,Safari,Russia,RUB,False
+TX_f1b9fe71,665.64,1,Gas,8,False,False,False,iOS App,Singapore,SGD,False
+TX_e8430f62,449653.75,1,Gas,18,True,False,False,Edge,Nigeria,NGN,False
+TX_3493ee75,5340.99,1,Travel,5,True,True,False,Safari,USA,USD,True
+TX_fbe40b2d,875.37,0,Retail,19,False,False,False,iOS App,Canada,CAD,False
+TX_f3c890f7,445.19,0,Healthcare,17,True,False,False,iOS App,Canada,CAD,False
+TX_65e491ac,625.24,0,Gas,22,True,False,False,Chrome,Canada,CAD,False
+TX_10026c55,5844.19,1,Gas,1,False,False,True,Magnetic Stripe,Brazil,BRL,True
+TX_9430933f,481.26,0,Healthcare,22,True,False,False,Safari,France,EUR,False
+TX_4475fbc6,178397.56,0,Travel,11,False,True,False,Edge,Nigeria,NGN,False
+TX_2f3c52b8,183.34,0,Gas,15,False,False,False,Chrome,UK,GBP,False
+TX_e5e73ec3,303.5,1,Gas,15,False,False,False,Firefox,Germany,EUR,False
+TX_4fbf1cbf,122737.81,0,Travel,11,True,True,False,iOS App,Nigeria,NGN,False
+TX_725b561b,38898.72,1,Gas,6,False,False,False,Chrome,Russia,RUB,False
+TX_4795ea3d,193.74,1,Healthcare,20,False,False,False,Firefox,USA,USD,False
+TX_a50daeee,332.37,0,Gas,10,False,False,False,Firefox,Canada,CAD,False
+TX_aa1e3f55,415.75,0,Travel,1,False,True,False,Safari,Canada,CAD,False
+TX_31a38a15,561.06,1,Healthcare,19,True,False,False,Safari,Singapore,SGD,False
+TX_9baf5b7d,2570.85,0,Travel,23,False,True,False,Android App,Brazil,BRL,False
+TX_f5c112bf,9136.76,1,Entertainment,13,False,True,False,Firefox,Mexico,MXN,False
+TX_d5ad5c63,603.27,0,Retail,8,False,False,False,Chrome,Brazil,BRL,False
+TX_a2621612,75194.25,1,Travel,13,False,True,True,Chip Reader,Mexico,MXN,True
+TX_469bab3d,82463.56,0,Education,14,False,False,False,Edge,Nigeria,NGN,False
+TX_e3351636,28923.96,1,Gas,18,False,False,False,Android App,Russia,RUB,False
+TX_f06aafc3,1670.86,1,Education,1,True,False,True,Magnetic Stripe,Germany,EUR,True
+TX_1546d28a,521.27,0,Retail,12,False,False,False,Edge,Singapore,SGD,False
+TX_2b47dd8a,465.23,0,Retail,11,False,False,False,iOS App,Singapore,SGD,False
+TX_6c2a781d,665.6,0,Entertainment,9,False,True,False,Safari,Germany,EUR,False
+TX_45a7203b,963.28,0,Travel,13,False,True,False,Android App,USA,USD,False
+TX_6a17e553,120052.31,0,Travel,12,False,True,False,Edge,Nigeria,NGN,False
+TX_662e9a2e,643.37,0,Entertainment,9,False,True,False,Firefox,Singapore,SGD,False
+TX_d619bb7a,14667.37,0,Healthcare,14,False,False,False,Android App,Russia,RUB,False
+TX_0ce20564,459.75,0,Grocery,5,False,False,False,Android App,Canada,CAD,False
+TX_625a6a3f,3503.16,0,Retail,12,False,False,False,Firefox,Brazil,BRL,False
+TX_fe250f5b,688.16,0,Education,15,False,False,False,Edge,Singapore,SGD,False
+TX_4514606e,788.34,0,Grocery,7,True,False,False,Chrome,France,EUR,False
+TX_c556681e,8124.8,0,Restaurant,14,False,False,False,Firefox,Brazil,BRL,False
+TX_8029f8b3,3882.63,1,Entertainment,0,True,True,False,Safari,Mexico,MXN,False
+TX_c6123af5,470.9,0,Retail,9,True,False,False,Safari,Canada,CAD,False
+TX_25e90fed,194.78,1,Travel,20,True,True,True,Magnetic Stripe,Australia,AUD,True
+TX_0f7ef975,39.47,1,Healthcare,10,True,False,False,Chrome,Mexico,MXN,True
+TX_47ec404f,1.27,1,Education,4,False,False,True,NFC Payment,Brazil,BRL,True
+TX_e6730b4e,337745.45,1,Grocery,1,True,False,False,Firefox,Nigeria,NGN,True
+TX_d11ffd13,2489.76,0,Gas,0,False,False,False,Android App,Brazil,BRL,False
+TX_36029ebe,776.01,0,Grocery,9,False,False,False,Chrome,UK,GBP,False
+TX_e65b13bc,269605.31,0,Travel,7,True,True,False,iOS App,Nigeria,NGN,False
+TX_28f25113,1728.6,0,Healthcare,12,True,False,False,Chrome,Australia,AUD,False
+TX_0ad5884e,344.87,0,Healthcare,13,False,False,False,Android App,UK,GBP,False
+TX_7b68f934,11730.87,0,Retail,13,False,False,False,Chrome,Mexico,MXN,False
+TX_08945133,108.27,0,Travel,13,False,True,False,Edge,USA,USD,False
+TX_6dfedf42,1217.3,0,Entertainment,21,False,True,False,iOS App,Singapore,SGD,False
+TX_2e201aff,19.72,1,Travel,1,False,True,True,NFC Payment,Mexico,MXN,True
+TX_637a046a,1355.12,1,Retail,2,False,False,True,Magnetic Stripe,Nigeria,NGN,True
+TX_4e69e5e0,229.65,0,Healthcare,9,False,False,False,Chrome,Canada,CAD,False
+TX_ff216591,302.78,1,Healthcare,21,True,False,False,Edge,UK,GBP,False
+TX_c7e63472,810.47,0,Travel,19,False,True,False,Firefox,USA,USD,False
+TX_7fc146f8,273.88,0,Grocery,6,False,False,False,Firefox,France,EUR,False
+TX_99b500e9,484014.53,0,Entertainment,13,False,True,False,Edge,Nigeria,NGN,False
+TX_22184c87,279.12,0,Grocery,13,True,False,False,Edge,UK,GBP,False
+TX_bd03319c,18467.34,0,Retail,18,False,False,False,iOS App,Mexico,MXN,False
+TX_dad9c89c,378.29,1,Grocery,12,False,False,False,iOS App,France,EUR,False
+TX_9c989b47,963.53,0,Restaurant,21,False,False,False,Safari,Mexico,MXN,False
+TX_61810972,95972.89,0,Grocery,4,False,False,False,Android App,Russia,RUB,True
+TX_52681c21,633.17,0,Entertainment,2,False,True,False,Safari,Singapore,SGD,False
+TX_74bc2466,36432.14,0,Retail,13,False,False,False,Edge,Russia,RUB,False
+TX_620f205a,662.32,0,Restaurant,8,False,False,False,Chrome,Australia,AUD,False
+TX_ab79f8c5,1169.92,1,Healthcare,2,False,False,False,Firefox,Nigeria,NGN,True
+TX_ffc2b22b,10403.2,1,Entertainment,1,False,True,False,iOS App,Mexico,MXN,True
+TX_165c8536,44374.91,1,Healthcare,13,True,False,False,iOS App,Japan,JPY,False
+TX_f6bd8ee7,494.52,0,Gas,21,True,False,False,Safari,UK,GBP,False
+TX_dd2a5508,188.45,0,Restaurant,10,False,False,False,Android App,Canada,CAD,False
+TX_a63e9e65,720.18,0,Gas,0,False,False,False,Android App,UK,GBP,False
+TX_80fdd034,264.24,0,Grocery,8,False,False,False,Android App,France,EUR,False
+TX_5aaa53af,24350.44,0,Gas,14,True,False,False,Edge,Russia,RUB,False
+TX_0acc09d8,1251.53,1,Education,20,False,False,True,Chip Reader,Canada,CAD,True
+TX_735212d4,41068.84,0,Education,19,False,False,False,Edge,Japan,JPY,False
+TX_a6e70017,541.03,0,Travel,5,False,True,False,Firefox,France,EUR,False
+TX_1496dc64,173946.47,0,Healthcare,7,False,False,False,Safari,Nigeria,NGN,False
+TX_f4ca0069,363.97,0,Healthcare,19,False,False,False,Chrome,Singapore,SGD,False
+TX_eba654fd,165.23,0,Restaurant,11,False,False,False,Edge,Brazil,BRL,False
+TX_2a71e83d,292546.97,0,Retail,1,False,False,False,Edge,Nigeria,NGN,False
+TX_e4ae68f6,24.16,1,Grocery,22,False,False,False,Edge,Russia,RUB,True
+TX_b6c303c5,98186.2,0,Gas,0,False,False,False,Android App,Nigeria,NGN,False
+TX_ceb72912,2988.55,0,Travel,14,False,True,False,Safari,Canada,CAD,False
+TX_e530c0a2,10302.93,1,Travel,8,False,True,False,Edge,Mexico,MXN,False
+TX_1e1ede80,362.06,0,Education,11,False,False,False,Chrome,Singapore,SGD,False
+TX_46cc3edb,15001.2,1,Grocery,22,False,False,True,NFC Payment,Mexico,MXN,True
+TX_a55c7c27,863.03,0,Travel,17,True,True,False,Firefox,Australia,AUD,False
+TX_f825271f,427.23,0,Education,6,False,False,False,Safari,Germany,EUR,False
+TX_a310830d,204.36,1,Restaurant,3,False,False,False,Edge,France,EUR,True
+TX_68245097,10540.85,1,Education,9,False,False,True,Chip Reader,Brazil,BRL,True
+TX_ec753525,348.43,1,Gas,9,False,False,False,Chrome,USA,USD,False
+TX_f5327b04,2369.99,0,Education,3,False,False,False,iOS App,Brazil,BRL,False
+TX_0b33455c,227694.51,0,Healthcare,22,False,False,False,Android App,Nigeria,NGN,False
+TX_d0d654fe,2214.67,0,Retail,1,False,False,False,Android App,Mexico,MXN,False
+TX_1f51e1f8,141.73,0,Travel,17,True,True,False,Android App,Australia,AUD,False
+TX_e1bcde02,25747.62,1,Healthcare,4,False,False,True,Chip Reader,Mexico,MXN,True
+TX_2baf9087,149841.71,0,Entertainment,6,False,True,False,iOS App,Nigeria,NGN,False
+TX_6e4ce667,477.75,0,Healthcare,14,True,False,False,Android App,USA,USD,False
+TX_66eb909a,447.23,0,Healthcare,11,False,False,False,iOS App,USA,USD,False
+TX_51cbb82d,3433.39,0,Retail,17,False,False,False,Android App,Brazil,BRL,False
+TX_08cb1670,383.24,1,Restaurant,13,False,False,False,iOS App,UK,GBP,False
+TX_81351937,210.04,0,Education,18,False,False,False,Edge,Germany,EUR,False
+TX_8e03bc46,890.65,0,Healthcare,5,False,False,False,Android App,Brazil,BRL,False
+TX_0a3bd5f3,71871.91,0,Healthcare,1,False,False,False,Chrome,Japan,JPY,False
+TX_ca60e9f8,718.69,1,Travel,6,False,True,False,iOS App,Australia,AUD,False
+TX_d6f1b914,452.33,0,Healthcare,6,False,False,False,Edge,UK,GBP,False
+TX_4df94d1f,2396.13,0,Education,17,False,False,False,Edge,Brazil,BRL,False
+TX_d480dc8b,446.17,0,Restaurant,11,False,False,False,iOS App,Germany,EUR,False
+TX_5da17b99,43304.89,1,Gas,0,False,False,False,Android App,Japan,JPY,False
+TX_5fd8e8c5,1342.75,0,Retail,22,False,False,False,Edge,Singapore,SGD,False
+TX_a684363f,275052.13,0,Education,5,True,False,False,Firefox,Nigeria,NGN,False
+TX_6031cab7,25144.32,1,Grocery,4,False,False,False,Chrome,Mexico,MXN,True
+TX_faf2659b,9729.71,0,Retail,12,True,False,False,Android App,Mexico,MXN,False
+TX_1c523a52,39227.56,0,Gas,9,True,False,False,Edge,Russia,RUB,False
+TX_fa010ec8,750.28,0,Retail,19,False,False,False,Edge,France,EUR,False
+TX_d4dd0f05,23245.83,1,Entertainment,12,False,True,False,Firefox,Russia,RUB,True
+TX_ba93ca24,85199.2,0,Education,13,True,False,False,Firefox,Nigeria,NGN,False
+TX_802c92ca,296.94,0,Grocery,18,False,False,False,Chrome,France,EUR,False
+TX_1a3700ac,32158.07,1,Education,12,False,False,False,Chrome,Mexico,MXN,True
+TX_e3740bb9,336.82,0,Retail,6,False,False,False,Android App,France,EUR,False
+TX_9284a59b,514.16,0,Gas,3,False,False,False,iOS App,UK,GBP,False
+TX_387bcf60,920205.53,1,Entertainment,5,False,True,True,Magnetic Stripe,Nigeria,NGN,True
+TX_c60b1561,8.14,1,Retail,21,False,False,False,Android App,Mexico,MXN,True
+TX_89769618,203644.71,1,Gas,2,False,False,False,Edge,Nigeria,NGN,True
+TX_9b5c90a6,1355.39,1,Restaurant,2,False,False,False,Edge,Germany,EUR,False
+TX_3ac8ef17,497.5,1,Retail,12,False,False,False,iOS App,Germany,EUR,False
+TX_1bc4d981,279.04,0,Restaurant,13,False,False,False,Chrome,France,EUR,False
+TX_416e6a05,754.17,0,Restaurant,16,False,False,False,iOS App,Singapore,SGD,False
+TX_1845a6e2,1.03,1,Restaurant,3,False,False,True,NFC Payment,Brazil,BRL,True
+TX_641be0ce,409.21,0,Entertainment,17,False,True,False,Firefox,Germany,EUR,False
+TX_72c3483c,2023.27,0,Grocery,6,False,False,False,Chrome,Brazil,BRL,False
+TX_6be6656a,450.32,0,Entertainment,8,True,True,False,Edge,Singapore,SGD,False
+TX_fe3b84c9,305.72,0,Grocery,18,False,False,False,Firefox,Australia,AUD,False
+TX_fdfcf8a4,623.97,0,Travel,15,False,True,False,Firefox,UK,GBP,False
+TX_1978a8e5,55.88,0,Entertainment,3,False,True,False,Firefox,USA,USD,False
+TX_09e47e01,2.58,1,Healthcare,4,True,False,False,Android App,France,EUR,True
+TX_cd6e5ac7,550.11,0,Retail,4,False,False,False,Chrome,Singapore,SGD,False
+TX_144d512e,1669.37,0,Retail,18,False,False,False,Chrome,Singapore,SGD,False
+TX_2aaaaa87,123898.2,0,Gas,4,True,False,False,Safari,Nigeria,NGN,False
+TX_932a8d51,1122.65,0,Healthcare,18,False,False,False,Edge,Brazil,BRL,False
+TX_d2d1752b,466.19,1,Entertainment,14,False,True,False,Chrome,Brazil,BRL,True
+TX_8c9b9ddf,158108.44,1,Gas,11,True,False,False,Android App,Russia,RUB,True
+TX_b9057045,610.9,0,Retail,17,False,False,False,Android App,Canada,CAD,False
+TX_0bca9246,198718.91,0,Gas,7,True,False,False,Edge,Nigeria,NGN,False
+TX_0935e01f,117.28,0,Travel,2,True,True,False,iOS App,France,EUR,False
+TX_b910e187,80696.18,0,Education,15,False,False,False,Firefox,Nigeria,NGN,False
+TX_d5876365,2024.63,1,Travel,14,False,True,False,Android App,Australia,AUD,False
+TX_27611e86,951.69,0,Entertainment,17,True,True,False,Android App,Singapore,SGD,False
+TX_cb5ef4e0,243.92,0,Grocery,23,False,False,False,Firefox,France,EUR,False
+TX_427d15c4,3330.7,0,Travel,22,False,True,False,Edge,Mexico,MXN,False
+TX_1d1f4e6b,670.45,0,Gas,19,False,False,False,Edge,Singapore,SGD,False
+TX_045dc980,414002.15,0,Restaurant,16,False,False,False,iOS App,Nigeria,NGN,False
+TX_d8734101,65065.98,1,Education,8,True,False,False,Edge,Russia,RUB,True
+TX_5d75769f,709.38,0,Retail,18,False,False,False,Edge,Germany,EUR,False
+TX_89604244,55820.55,0,Travel,18,True,True,False,Edge,Mexico,MXN,False
+TX_be7dc66c,582.27,0,Healthcare,13,False,False,False,iOS App,USA,USD,False
+TX_664ba094,258.53,1,Gas,4,False,False,False,Chrome,Nigeria,NGN,True
+TX_f2dfd01a,459.42,0,Retail,15,False,False,False,Edge,Australia,AUD,False
+TX_d2e26007,3992.66,0,Grocery,22,False,False,False,Edge,Mexico,MXN,False
+TX_13f36c6b,68.06,0,Restaurant,0,True,False,False,Edge,France,EUR,False
+TX_ad9ba409,2315.48,0,Travel,21,False,True,False,Chrome,France,EUR,False
+TX_7cf04732,904.52,1,Gas,1,False,False,False,Firefox,Nigeria,NGN,True
+TX_5811cb9e,2.43,1,Grocery,3,True,False,False,Edge,Brazil,BRL,True
+TX_d88cce73,249840.08,0,Education,13,True,False,False,Edge,Nigeria,NGN,False
+TX_7424a9a9,93700.01,0,Education,21,False,False,False,Android App,Russia,RUB,False
+TX_91e0c2cc,3469.0,0,Travel,19,True,True,False,iOS App,Canada,CAD,False
+TX_e9676763,26753.96,0,Travel,23,False,True,False,Safari,Japan,JPY,False
+TX_68c9edfc,131.25,0,Restaurant,9,False,False,False,Chrome,UK,GBP,False
+TX_61aab466,958.32,0,Retail,17,False,False,False,Safari,Canada,CAD,False
+TX_c975e53f,343.92,0,Travel,17,True,True,False,iOS App,Germany,EUR,False
+TX_46c3984a,2749.57,0,Restaurant,7,False,False,False,Firefox,Russia,RUB,False
+TX_e3caceff,395.08,0,Grocery,19,True,False,False,Safari,USA,USD,False
+TX_8ef3f4a9,641.74,1,Retail,13,False,False,False,Android App,USA,USD,False
+TX_fcb381ba,2366.93,0,Retail,22,False,False,False,iOS App,Brazil,BRL,False
+TX_20b9d1b1,502.18,0,Travel,20,False,True,False,Chrome,Singapore,SGD,False
+TX_17d7585e,3748.75,1,Entertainment,8,False,True,False,iOS App,Mexico,MXN,True
+TX_808e8f26,376225.71,1,Retail,2,False,False,False,Android App,Russia,RUB,True
+TX_d698500c,312.01,0,Entertainment,10,False,True,False,Safari,Canada,CAD,False
+TX_6986dfdd,336.61,0,Gas,20,False,False,False,iOS App,Singapore,SGD,False
+TX_584aa2a8,52639.81,0,Retail,2,False,False,False,iOS App,Japan,JPY,False
+TX_225fdd58,11285.1,1,Restaurant,6,False,False,True,Chip Reader,Brazil,BRL,True
+TX_e7a3bf4a,260.01,0,Grocery,9,False,False,False,Edge,USA,USD,False
+TX_9f770034,533.43,0,Restaurant,20,True,False,False,Safari,Canada,CAD,False
+TX_236f9c28,386.22,0,Entertainment,12,False,True,False,Safari,Brazil,BRL,False
+TX_68009f4a,41.92,0,Restaurant,21,False,False,False,Edge,France,EUR,False
+TX_a83c50b5,203376.17,0,Healthcare,14,True,False,False,Edge,Nigeria,NGN,False
+TX_c82ad402,637.06,0,Healthcare,22,False,False,False,Safari,France,EUR,False
+TX_9ad9f7c0,2375.35,0,Entertainment,3,True,True,False,Firefox,Brazil,BRL,False
+TX_ee06012f,76.46,0,Restaurant,13,False,False,False,Edge,France,EUR,False
+TX_4ee1fef3,435.74,1,Healthcare,18,False,False,False,Chrome,UK,GBP,False
+TX_6bb65ef0,77838.5,0,Travel,6,False,True,False,Chrome,Nigeria,NGN,False
+TX_21b6d2d8,265887.79,1,Retail,1,False,False,True,Magnetic Stripe,Russia,RUB,True
+TX_0102e80f,34805.43,0,Retail,11,False,False,False,Edge,Russia,RUB,False
+TX_89c5a14b,584.89,1,Travel,17,False,True,False,Edge,Canada,CAD,True
+TX_18d422ea,13136.01,0,Education,20,False,False,False,iOS App,Mexico,MXN,False
+TX_ad2e77bd,397.75,0,Gas,7,False,False,False,Safari,France,EUR,False
+TX_0266d099,843118.81,1,Entertainment,14,False,True,True,Magnetic Stripe,Nigeria,NGN,True
+TX_3e3343b5,182089.28,0,Gas,21,False,False,False,Safari,Nigeria,NGN,False
+TX_d844a562,273.84,0,Healthcare,8,False,False,False,Safari,Germany,EUR,False
+TX_85a7788d,2478.68,0,Education,4,False,False,False,Chrome,Brazil,BRL,False
+TX_c431690e,6178.35,0,Healthcare,10,False,False,False,Firefox,Mexico,MXN,False
+TX_f54ab32f,51066.37,1,Entertainment,1,False,True,True,Chip Reader,Nigeria,NGN,True
+TX_70cc1749,349.73,0,Grocery,20,True,False,False,Edge,France,EUR,False
+TX_82689b64,1603.51,0,Travel,20,True,True,False,Edge,Canada,CAD,False
+TX_9faccba5,436.13,0,Entertainment,1,False,True,False,iOS App,Germany,EUR,False
+TX_e503dfad,806768.06,1,Healthcare,3,True,False,False,iOS App,Nigeria,NGN,True
+TX_88a617cc,204.11,0,Grocery,8,False,False,False,iOS App,Singapore,SGD,False
+TX_5e04945f,1054.72,0,Restaurant,3,True,False,False,Chrome,Canada,CAD,False
+TX_41d4d77e,35026.58,0,Healthcare,9,True,False,False,Chrome,Russia,RUB,False
+TX_a3a6510a,954.24,0,Gas,19,False,False,False,Firefox,Singapore,SGD,False
+TX_6cd8e09f,18056.39,0,Gas,20,True,False,False,Safari,Russia,RUB,False
+TX_109a0c36,868.14,0,Entertainment,16,False,True,False,Chrome,Singapore,SGD,False
+TX_73034645,1822.04,1,Travel,19,False,True,False,iOS App,Nigeria,NGN,True
+TX_e450d661,21868.06,0,Healthcare,10,False,False,False,Edge,Russia,RUB,False
+TX_8a425418,114.96,1,Restaurant,15,False,False,True,Magnetic Stripe,Russia,RUB,True
+TX_9fe8421d,3145.39,0,Gas,10,True,False,False,Safari,Brazil,BRL,True
+TX_dacf0216,285.68,0,Grocery,15,True,False,False,Safari,Canada,CAD,False
+TX_9f135946,17484.69,0,Travel,7,False,True,False,Edge,Mexico,MXN,False
+TX_d7fa9f7b,5565.56,0,Entertainment,17,False,True,False,iOS App,Mexico,MXN,False
+TX_0b2ad4c1,97.9,0,Entertainment,19,False,True,False,Edge,UK,GBP,False
+TX_fa060fa8,37.42,0,Restaurant,8,False,False,False,Edge,USA,USD,False
+TX_29efa6e2,75930.59,0,Education,7,True,False,False,Android App,Japan,JPY,False
+TX_4b997782,383.17,0,Healthcare,15,True,False,False,iOS App,France,EUR,False
+TX_d2b01b96,0.51,0,Gas,2,True,False,False,Android App,France,EUR,True
+TX_f918ea0f,355.88,0,Entertainment,14,True,True,False,Android App,UK,GBP,False
+TX_00a4c7ab,289.54,1,Entertainment,18,False,True,False,Safari,Germany,EUR,False
+TX_e2a6bd2b,7385.24,1,Travel,1,False,True,True,Chip Reader,UK,GBP,True
+TX_93862928,1016.35,1,Gas,22,False,False,False,Android App,Australia,AUD,False
+TX_1e0d8342,3967.98,0,Retail,17,False,False,False,Edge,Canada,CAD,True
+TX_ec2171e5,168343.64,0,Education,13,False,False,False,Android App,Nigeria,NGN,False
+TX_8297d628,1062.52,0,Healthcare,9,True,False,False,Edge,Australia,AUD,False
+TX_1100bb27,154.79,1,Gas,1,False,False,True,NFC Payment,Russia,RUB,True
+TX_4de47c0c,66.46,1,Retail,1,True,False,False,iOS App,Russia,RUB,True
+TX_5a1d63cc,305283.71,1,Travel,17,True,True,False,Firefox,Japan,JPY,True
+TX_e3fddbdb,81236.87,0,Grocery,14,True,False,False,Chrome,Japan,JPY,False
+TX_b2ce462d,1589.56,1,Education,21,False,False,False,Safari,UK,GBP,True
+TX_951b74de,533.1,0,Entertainment,14,False,True,False,Edge,Singapore,SGD,False
+TX_df2caa1d,78.72,0,Grocery,10,True,False,False,Edge,Germany,EUR,False
+TX_0859b609,1328.85,1,Grocery,12,False,False,True,NFC Payment,Nigeria,NGN,True
+TX_4b258f8d,159561.63,0,Healthcare,7,True,False,False,Chrome,Nigeria,NGN,False
+TX_0e056c9b,424.85,1,Healthcare,22,True,False,False,Chrome,France,EUR,False
+TX_af165480,9838.98,1,Healthcare,13,False,False,False,Firefox,Russia,RUB,False
+TX_04b6e748,88.88,1,Retail,4,False,False,False,iOS App,Nigeria,NGN,True
+TX_152fc640,322.42,0,Grocery,19,True,False,False,Firefox,Canada,CAD,False
+TX_df6a7837,4203.78,0,Grocery,7,False,False,False,Firefox,Mexico,MXN,False
+TX_b35c3239,53754.75,0,Retail,11,True,False,False,Edge,Japan,JPY,False
+TX_050575b1,53838.93,0,Gas,5,False,False,False,Safari,Japan,JPY,False
+TX_13beb926,132.24,1,Grocery,4,False,False,False,Firefox,Germany,EUR,False
+TX_35586cb8,5414.35,0,Retail,22,False,False,False,Chrome,Mexico,MXN,False
+TX_aae97e0e,430.02,1,Entertainment,21,True,True,False,Firefox,Singapore,SGD,False
+TX_7b58eb94,253.44,1,Gas,7,False,False,False,Android App,France,EUR,False
+TX_e6b72523,504.81,0,Education,7,False,False,False,Edge,Singapore,SGD,False
+TX_f6044bb5,32633.7,0,Entertainment,17,False,True,False,Safari,Nigeria,NGN,False
+TX_058f1d97,6973.68,0,Gas,19,True,False,False,Chrome,Mexico,MXN,False
+TX_8739024d,300.21,0,Education,1,True,False,False,Safari,France,EUR,False
+TX_bd9d4178,467.08,0,Healthcare,18,True,False,False,iOS App,UK,GBP,False
+TX_19e3dc73,692.4,0,Retail,23,False,False,False,Edge,Germany,EUR,False
+TX_2af4e155,175076.39,1,Retail,3,False,False,True,Magnetic Stripe,Russia,RUB,True
+TX_e37b2847,471.58,0,Healthcare,15,False,False,False,Edge,Canada,CAD,False
+TX_3ea53d10,641.05,0,Entertainment,7,False,True,False,Edge,USA,USD,False
+TX_3ba04e82,114.51,1,Retail,1,True,False,False,Safari,Russia,RUB,True
+TX_9e663279,1667.05,0,Gas,12,False,False,False,Safari,Germany,EUR,False
+TX_530e3091,142154.34,0,Grocery,19,False,False,False,Firefox,Nigeria,NGN,False
+TX_5b07a7fa,901.71,1,Healthcare,3,True,False,False,iOS App,Nigeria,NGN,True
+TX_94de3c5b,470.69,0,Restaurant,9,False,False,False,Android App,Germany,EUR,False
+TX_f76fd1bf,4547.5,1,Restaurant,23,False,False,False,iOS App,Russia,RUB,True
+TX_25343094,364.84,0,Restaurant,17,False,False,False,Android App,USA,USD,False
+TX_a4b95fe0,143682.74,0,Grocery,10,False,False,False,Edge,Nigeria,NGN,False
+TX_69d76e73,1887.13,1,Grocery,6,False,False,True,Magnetic Stripe,Brazil,BRL,True
+TX_0e4a84c1,619.36,0,Gas,12,True,False,False,Chrome,Australia,AUD,False
+TX_10a3fcaa,362.39,1,Entertainment,20,False,True,False,Edge,UK,GBP,False
+TX_0e6c1ec2,355935.35,1,Travel,23,True,True,True,NFC Payment,Russia,RUB,True
+TX_95b917a5,6993.87,0,Grocery,17,False,False,False,Edge,Mexico,MXN,False
+TX_96256c1a,10950.2,1,Travel,16,True,True,False,Chrome,Mexico,MXN,False
+TX_090d9a23,2079.04,0,Gas,21,False,False,False,Chrome,Brazil,BRL,False
+TX_966b6e86,577.54,0,Gas,12,False,False,False,Safari,Singapore,SGD,False
+TX_970b0507,1254.02,1,Travel,16,False,True,False,Firefox,Australia,AUD,False
+TX_344549a5,4799.05,0,Gas,18,False,False,False,Safari,Mexico,MXN,False
+TX_6855d103,936.79,0,Travel,7,False,True,False,Chrome,UK,GBP,False
+TX_c354c2ef,2606.9,0,Travel,8,False,True,False,Chrome,Australia,AUD,False
+TX_18e906e9,527.42,1,Retail,18,True,False,False,Edge,Singapore,SGD,False
+TX_cb9a6c51,12443.93,0,Restaurant,15,True,False,False,Firefox,Japan,JPY,False
+TX_e3be7135,399.3,0,Healthcare,18,False,False,False,Android App,France,EUR,False
+TX_159cf235,1190.78,0,Gas,16,False,False,False,Safari,Germany,EUR,False
+TX_cd404ede,164039.06,1,Retail,7,False,False,True,NFC Payment,Russia,RUB,True
+TX_523842c2,712918.56,1,Grocery,3,True,False,True,NFC Payment,Nigeria,NGN,True
+TX_45b86f0e,309.69,0,Restaurant,13,False,False,False,Chrome,France,EUR,False
+TX_35b77825,17.34,1,Healthcare,17,False,False,True,NFC Payment,Brazil,BRL,True
+TX_1b72a2c8,64748.4,0,Retail,19,False,False,False,Firefox,Russia,RUB,False
+TX_002ae4ab,13653.5,0,Travel,9,False,True,False,Firefox,Mexico,MXN,False
+TX_9609833a,1702.31,0,Gas,8,False,False,False,Safari,Canada,CAD,False
+TX_db4d18eb,1768.47,0,Retail,0,False,False,False,Firefox,Germany,EUR,False
+TX_0e016222,103.03,1,Grocery,3,False,False,True,NFC Payment,Russia,RUB,True
+TX_73693d83,451.95,0,Education,16,False,False,False,Safari,Canada,CAD,False
+TX_7f64ec07,268.9,0,Restaurant,11,True,False,False,Safari,UK,GBP,False
+TX_d9301ac8,668.77,0,Education,16,False,False,False,Chrome,Singapore,SGD,False
+TX_a14767f4,16726.12,0,Retail,5,True,False,False,iOS App,Mexico,MXN,False
+TX_33dc73c7,145629.56,0,Travel,10,True,True,False,Android App,Japan,JPY,False
+TX_dbf64a0a,37641.59,1,Education,5,False,False,False,Edge,Russia,RUB,False
+TX_4ef62a6d,1167.53,1,Travel,12,False,True,False,Android App,France,EUR,False
+TX_3153f673,306.88,0,Healthcare,7,False,False,False,Firefox,Australia,AUD,False
+TX_e72fcbc2,40367.48,1,Healthcare,7,False,False,True,Chip Reader,Mexico,MXN,True
+TX_a0367a7b,349.33,0,Grocery,17,False,False,False,Chrome,Singapore,SGD,False
+TX_0529cdc7,612.32,0,Education,17,False,False,False,iOS App,Australia,AUD,False
+TX_5e8c77e9,3371.78,0,Healthcare,15,False,False,False,Edge,Brazil,BRL,False
+TX_f14d4277,62558.27,0,Entertainment,15,False,True,False,Safari,Japan,JPY,False
+TX_8f25ae7b,639.33,0,Retail,17,False,False,False,Firefox,France,EUR,False
+TX_4dbf8c8d,4574.64,1,Healthcare,19,False,False,False,Android App,Brazil,BRL,False
+TX_4a206bcb,1387.39,0,Grocery,9,True,False,False,Chrome,Singapore,SGD,False
+TX_706a3328,307.85,0,Entertainment,4,False,True,False,Chrome,France,EUR,False
+TX_98efb44a,1480.08,1,Education,2,False,False,True,NFC Payment,USA,USD,True
+TX_44db63d3,5193.64,0,Entertainment,19,True,True,False,Android App,Mexico,MXN,False
+TX_8c708b12,290.61,1,Travel,19,False,True,False,Edge,Australia,AUD,False
+TX_7960dd29,25010.78,0,Gas,3,False,False,True,Magnetic Stripe,Mexico,MXN,True
+TX_658960b4,271.85,0,Travel,8,False,True,False,Android App,UK,GBP,False
+TX_3af58713,578.3,0,Healthcare,12,True,False,False,Android App,Germany,EUR,False
+TX_0a09bb62,391.12,1,Entertainment,2,False,True,False,iOS App,Brazil,BRL,True
+TX_d5b8bc2a,53598.88,1,Healthcare,5,False,False,False,Firefox,Japan,JPY,False
+TX_0cdd1bf4,236.46,0,Entertainment,13,False,True,False,Android App,Singapore,SGD,False
+TX_b340826f,1227.74,0,Travel,8,False,True,False,Chrome,Canada,CAD,False
+TX_d1f24b13,37275.78,0,Education,22,False,False,False,iOS App,Japan,JPY,False
+TX_8fbf0d96,381.75,0,Education,18,False,False,False,Android App,Germany,EUR,False
+TX_407a077d,48.97,0,Restaurant,11,False,False,False,iOS App,Australia,AUD,False
+TX_7a3f3364,38776.41,0,Grocery,18,True,False,False,Android App,Japan,JPY,False
+TX_ef5521b2,275.79,1,Education,1,False,False,False,Edge,Germany,EUR,False
+TX_fdd60def,510.82,0,Education,16,False,False,False,Android App,USA,USD,False
+TX_f6dca279,47563.53,0,Gas,12,False,False,False,Firefox,Japan,JPY,False
+TX_70e0dac7,30732.56,1,Restaurant,8,False,False,False,Firefox,Mexico,MXN,True
+TX_babd6cc3,157490.62,1,Education,22,True,False,False,Edge,Nigeria,NGN,False
+TX_2317429b,1341.2,1,Retail,0,True,False,True,Magnetic Stripe,Nigeria,NGN,True
+TX_29b1c564,2.16,1,Gas,4,False,False,True,Chip Reader,Germany,EUR,True
+TX_d3f0a138,47563.45,1,Education,12,False,False,True,NFC Payment,Mexico,MXN,True
+TX_4aa9183b,254.65,0,Education,19,False,False,False,Safari,Canada,CAD,False
+TX_f13093b7,373.59,0,Entertainment,22,True,True,False,Firefox,Brazil,BRL,False
+TX_e1c5834a,1266.4,0,Healthcare,9,False,False,False,Chrome,USA,USD,False
+TX_d0294570,969.74,0,Travel,20,False,True,False,Firefox,Australia,AUD,False
+TX_bfe09090,571.01,1,Gas,6,True,False,False,Chrome,Singapore,SGD,False
+TX_f1d6af87,354.69,0,Entertainment,10,False,True,False,iOS App,Australia,AUD,False
+TX_471f0873,7430.66,1,Restaurant,10,False,False,False,Firefox,Mexico,MXN,True
+TX_d8b55b41,131361.62,1,Education,6,True,False,True,NFC Payment,Russia,RUB,True
+TX_497a886f,134.71,0,Grocery,5,False,False,False,Firefox,France,EUR,False
+TX_09be2b71,1279.22,1,Grocery,18,False,False,False,Chrome,Brazil,BRL,False
+TX_2a6aac53,13232.5,1,Education,14,False,False,True,Chip Reader,Mexico,MXN,True
+TX_966ee854,804.29,0,Retail,20,True,False,False,Edge,USA,USD,False
+TX_a1f16b64,704.13,0,Gas,23,True,False,False,Safari,France,EUR,False
+TX_26dc4c90,8324.42,0,Retail,17,False,False,False,iOS App,Brazil,BRL,False
+TX_310c5acf,793.56,0,Retail,22,False,False,False,iOS App,Australia,AUD,False
+TX_fd996d7c,45393.36,0,Grocery,22,False,False,False,Firefox,Japan,JPY,False
+TX_421b3009,45686.22,0,Grocery,19,True,False,False,Safari,Japan,JPY,False
+TX_037bb1d7,300.92,0,Retail,15,False,False,False,Edge,UK,GBP,False
+TX_dea38743,106741.94,0,Healthcare,14,False,False,False,Firefox,Nigeria,NGN,False
+TX_9dbf3d53,176.26,0,Restaurant,18,True,False,False,Firefox,Australia,AUD,False
+TX_0c25d752,33247.79,0,Healthcare,23,False,False,False,Android App,Russia,RUB,False
+TX_405a8837,280.15,1,Restaurant,3,False,False,False,Chrome,Germany,EUR,False
+TX_4c77389d,342352.34,1,Restaurant,3,False,False,True,Chip Reader,Nigeria,NGN,True
+TX_fdf88dc4,10254.45,0,Healthcare,8,True,False,False,iOS App,Brazil,BRL,False
+TX_fab17cd1,355.64,0,Healthcare,0,False,False,False,Firefox,Germany,EUR,False
+TX_7ae44c7d,637079.42,1,Entertainment,15,True,True,False,Edge,Nigeria,NGN,False
+TX_b77c8b75,258.61,0,Grocery,8,False,False,False,Firefox,Canada,CAD,False
+TX_e4fbbeee,2.31,0,Gas,10,True,False,False,Firefox,Germany,EUR,True
+TX_fbb66b3e,189.23,0,Gas,9,True,False,False,Firefox,Canada,CAD,False
+TX_ea088331,728.51,0,Healthcare,8,False,False,False,Chrome,France,EUR,False
+TX_a3862dac,124.82,0,Grocery,0,False,False,False,Edge,France,EUR,False
+TX_8083611e,116.47,1,Retail,16,False,False,False,Edge,UK,GBP,False
+TX_931bbbd1,20382.77,0,Retail,8,False,False,False,Safari,Russia,RUB,False
+TX_26c53319,133435.04,0,Travel,9,True,True,False,Android App,Russia,RUB,False
+TX_0a9af9a2,324.57,1,Entertainment,10,False,True,True,NFC Payment,Brazil,BRL,True
+TX_6b7e1f44,370.33,0,Education,8,False,False,False,Edge,Canada,CAD,False
+TX_83692471,68963.49,0,Retail,1,False,False,False,Firefox,Japan,JPY,False
+TX_ae205fc8,600.78,1,Gas,19,False,False,False,Android App,Singapore,SGD,False
+TX_ee8d0ffc,122.45,0,Entertainment,2,True,True,False,iOS App,USA,USD,False
+TX_778387c3,343700.86,0,Entertainment,21,False,True,False,iOS App,Nigeria,NGN,False
+TX_42a44a82,756722.96,0,Travel,23,False,True,False,Chrome,Nigeria,NGN,False
+TX_a1558060,437.1,0,Healthcare,20,True,False,False,Safari,Canada,CAD,False
+TX_a76f0980,122748.02,0,Grocery,7,False,False,False,Firefox,Nigeria,NGN,False
+TX_4b90b90e,311.76,0,Healthcare,2,True,False,False,Edge,Australia,AUD,False
+TX_5b6df79a,2159.06,0,Travel,15,True,True,False,Edge,France,EUR,False
+TX_2b28033e,38988.67,0,Education,22,True,False,False,Firefox,Mexico,MXN,False
+TX_04810260,113.04,0,Restaurant,18,False,False,False,iOS App,Singapore,SGD,False
+TX_da08e7e1,4673.65,1,Grocery,15,False,False,False,Safari,Brazil,BRL,True
+TX_335e93b8,3039.58,0,Retail,15,True,False,False,Android App,Brazil,BRL,False
+TX_e6e4f7f0,1954.4,0,Healthcare,7,False,False,False,Safari,Brazil,BRL,False
+TX_99d45a14,354.13,0,Grocery,12,False,False,False,iOS App,Australia,AUD,False
+TX_50aca213,212785.19,0,Travel,8,False,True,False,Safari,Japan,JPY,False
+TX_dcd69114,1347.43,0,Gas,9,False,False,False,Edge,USA,USD,False
+TX_da870bc3,442.03,0,Education,21,False,False,False,Edge,Singapore,SGD,False
+TX_59f834e2,489.07,0,Grocery,14,False,False,False,Android App,Australia,AUD,False
+TX_686d17d6,198.15,0,Gas,19,False,False,False,iOS App,Germany,EUR,False
+TX_cf5011c4,31103.54,0,Retail,22,False,False,False,Android App,Japan,JPY,False
+TX_6f911b0e,524.37,0,Gas,23,True,False,False,Android App,Germany,EUR,False
+TX_5ce4b8e4,360.63,0,Grocery,8,False,False,False,Chrome,France,EUR,False
+TX_106c8857,905444.93,1,Restaurant,3,False,False,True,Chip Reader,Nigeria,NGN,True
+TX_83cb3355,881.13,0,Healthcare,6,False,False,False,Chrome,Singapore,SGD,False
+TX_dc3b4275,37064.03,0,Education,2,False,False,False,iOS App,Russia,RUB,False
+TX_d7b9570d,57.77,1,Restaurant,16,False,False,False,Firefox,France,EUR,False
+TX_a51d92b4,2925.36,0,Entertainment,21,False,True,False,Android App,Australia,AUD,False
+TX_f533f79e,300.47,0,Retail,18,False,False,False,Chrome,UK,GBP,False
+TX_e4f7e038,4.91,1,Restaurant,3,False,False,True,Magnetic Stripe,Australia,AUD,True
+TX_3a5b5077,26887.54,1,Entertainment,3,False,True,True,NFC Payment,Mexico,MXN,True
+TX_6b000a7b,24.39,1,Healthcare,14,True,False,False,Firefox,Mexico,MXN,True
+TX_397c6f4b,384.41,1,Grocery,23,True,False,True,Magnetic Stripe,Nigeria,NGN,True
+TX_219a9172,59754.07,1,Healthcare,11,True,False,False,Chrome,Japan,JPY,False
+TX_5a27a726,608.25,0,Travel,7,False,True,False,Safari,Canada,CAD,False
+TX_cfd008e6,283296.34,1,Restaurant,15,False,False,False,Firefox,Nigeria,NGN,False
+TX_1ffef39b,403.6,0,Entertainment,16,False,True,False,Firefox,Canada,CAD,False
+TX_bd9d4498,8126.67,0,Travel,19,False,True,False,Firefox,Brazil,BRL,False
+TX_3d27f82e,9480.15,1,Restaurant,7,True,False,False,Chrome,Mexico,MXN,True
+TX_a2f4633f,49752.75,1,Healthcare,12,True,False,False,Firefox,Japan,JPY,False
+TX_b37bd87e,33845.79,0,Education,23,False,False,False,Chrome,Japan,JPY,False
+TX_1b6e21a2,389.4,0,Gas,4,False,False,False,Edge,France,EUR,False
+TX_30137751,542.28,0,Entertainment,11,True,True,False,Safari,USA,USD,False
+TX_177d383d,252.07,1,Healthcare,8,False,False,False,Edge,Singapore,SGD,False
+TX_5670130a,56666.24,0,Entertainment,2,False,True,False,Safari,Japan,JPY,False
+TX_8feb403e,114793.41,1,Gas,7,True,False,True,Magnetic Stripe,Russia,RUB,True
+TX_5bc4dd44,2205.76,1,Healthcare,20,True,False,False,Safari,Brazil,BRL,False
+TX_e072ddd9,5466.28,1,Healthcare,14,True,False,False,Chrome,Brazil,BRL,True
+TX_7803bd96,3916.91,0,Entertainment,16,True,True,False,Edge,Mexico,MXN,False
+TX_5c60706c,26557.09,0,Gas,13,False,False,False,Safari,Russia,RUB,False
+TX_c22628c4,51.66,1,Restaurant,8,False,False,False,Android App,UK,GBP,False
+TX_01a0751d,40645.07,0,Education,7,False,False,False,Safari,Japan,JPY,False
+TX_1809ab70,0.6,1,Healthcare,5,False,False,True,NFC Payment,USA,USD,True
+TX_7b1710a9,167.51,0,Entertainment,23,False,True,False,Android App,Canada,CAD,False
+TX_e24ee89b,68839.31,1,Healthcare,10,False,False,False,iOS App,Russia,RUB,True
+TX_2d045e2b,36225.71,0,Gas,19,False,False,False,Safari,Mexico,MXN,False
+TX_c2eba43a,50986.62,1,Gas,17,False,False,False,Firefox,Japan,JPY,False
+TX_af324e9f,13104.6,0,Education,0,True,False,False,Safari,Japan,JPY,False
+TX_2739242a,698.33,0,Travel,4,True,True,False,Android App,UK,GBP,False
+TX_bdd67c38,2699.9,0,Healthcare,19,False,False,False,Safari,Brazil,BRL,False
+TX_36f0fbd7,21179.25,1,Gas,2,False,False,True,NFC Payment,Mexico,MXN,True
+TX_56bc9f96,5.15,1,Travel,16,True,True,False,iOS App,Australia,AUD,True
+TX_36d67497,3016.46,1,Education,14,False,False,False,Edge,Mexico,MXN,False
+TX_595d1ba2,455228.99,0,Healthcare,11,True,False,False,iOS App,Nigeria,NGN,False
+TX_72dce6e8,299.14,0,Gas,14,False,False,False,Firefox,France,EUR,False
+TX_0843f398,9450.11,0,Education,19,False,False,False,Chrome,Mexico,MXN,False
+TX_268c5440,1269.2,0,Education,11,True,False,False,Chrome,Brazil,BRL,False
+TX_348744e5,38328.96,1,Restaurant,4,False,False,False,iOS App,Mexico,MXN,True
+TX_e797f833,451.12,0,Education,15,False,False,False,Chrome,Germany,EUR,False
+TX_6a86b6df,429.25,0,Grocery,18,True,False,False,iOS App,Australia,AUD,False
+TX_220cbb36,980191.38,1,Healthcare,8,True,False,False,Edge,Nigeria,NGN,True
+TX_34344ba3,101.29,0,Gas,15,False,False,False,Edge,UK,GBP,False
+TX_0504f15d,76170.15,0,Travel,18,False,True,False,Edge,Japan,JPY,False
+TX_44cfadb0,59853.32,0,Entertainment,5,False,True,False,iOS App,Nigeria,NGN,False
+TX_128f7dd0,249.3,0,Entertainment,20,False,True,False,Firefox,Singapore,SGD,False
+TX_14a4dbd4,167622.55,1,Gas,4,True,False,False,Safari,Russia,RUB,True
+TX_50da380d,87881.33,1,Gas,0,False,False,False,Android App,Russia,RUB,True
+TX_87af926b,1638.62,1,Restaurant,10,False,False,False,Safari,Singapore,SGD,False
+TX_dc164f52,1138.96,1,Entertainment,3,False,True,False,Firefox,Germany,EUR,True
+TX_42fd68c1,2634.25,0,Education,18,True,False,False,Edge,Brazil,BRL,False
+TX_45b42e2a,0.61,1,Gas,20,False,False,False,Edge,Brazil,BRL,True
+TX_d94dd7a1,638.34,0,Gas,10,False,False,False,Firefox,France,EUR,False
+TX_e5f4535c,27719.84,1,Healthcare,17,False,False,False,Chrome,Russia,RUB,False
+TX_6cd1d553,457.59,0,Gas,14,False,False,False,Firefox,USA,USD,False
+TX_b4328b32,259.84,0,Gas,11,True,False,False,Safari,Canada,CAD,False
+TX_c96c7463,581.48,0,Retail,7,False,False,False,Chrome,UK,GBP,False
+TX_175d9ee5,669725.7,1,Gas,8,False,False,True,Chip Reader,Nigeria,NGN,True
+TX_377f7b5f,46646.79,0,Restaurant,6,True,False,False,Firefox,Japan,JPY,False
+TX_adab7720,2210.96,1,Education,18,False,False,False,Firefox,Brazil,BRL,False
+TX_446c3cff,7955.3,1,Healthcare,10,False,False,True,Chip Reader,Brazil,BRL,True
+TX_64bfdf7a,9555.65,0,Education,18,True,False,False,Safari,Mexico,MXN,False
+TX_aa2c5902,974.31,0,Retail,1,False,False,False,Chrome,France,EUR,False
+TX_32e67430,598.56,0,Retail,13,False,False,False,Firefox,Canada,CAD,False
+TX_1230cebd,1405.36,0,Entertainment,10,False,True,False,Chrome,Australia,AUD,False
+TX_ecab6e7b,313.21,0,Travel,22,False,True,False,Edge,France,EUR,False
+TX_6bac3b8a,288.62,1,Grocery,5,False,False,False,Android App,UK,GBP,False
+TX_ec55b3fa,81.85,1,Grocery,9,True,False,False,iOS App,Mexico,MXN,True
+TX_4f37e689,43482.31,1,Grocery,17,False,False,True,Chip Reader,Russia,RUB,True
+TX_49a7f9aa,1486.11,0,Travel,14,False,True,False,Chrome,Brazil,BRL,False
+TX_3d5d1540,14084.74,0,Education,7,False,False,False,Edge,Japan,JPY,False
+TX_937764c7,3126.84,1,Grocery,16,False,False,False,Firefox,Brazil,BRL,True
+TX_ecf48e8f,1341933.96,1,Retail,5,False,False,False,iOS App,Nigeria,NGN,True
+TX_a4b7b158,700.87,0,Retail,17,False,False,False,Chrome,Canada,CAD,False
+TX_0c9dfd7a,419.56,0,Healthcare,16,False,False,False,Safari,France,EUR,False
+TX_eaf8c77c,564.22,0,Entertainment,23,False,True,False,Chrome,Canada,CAD,False
+TX_bdb24a08,270.94,0,Gas,9,False,False,False,Safari,Canada,CAD,False
+TX_ca3e3a0d,55160.12,1,Retail,1,False,False,True,Chip Reader,Russia,RUB,True
+TX_dd70e2a5,689.16,0,Retail,13,False,False,False,iOS App,France,EUR,False
+TX_aba1cd0b,358.28,0,Education,22,False,False,False,Firefox,UK,GBP,False
+TX_331fc499,173591.08,0,Gas,6,False,False,False,Chrome,Nigeria,NGN,False
+TX_67451654,9.29,1,Education,11,False,False,True,Chip Reader,Brazil,BRL,True
+TX_fddaea07,682.03,0,Restaurant,13,False,False,False,iOS App,Australia,AUD,False
+TX_09e10d86,266.59,0,Education,8,True,False,False,Edge,France,EUR,False
+TX_6fe27ce0,23377.4,1,Entertainment,14,False,True,False,Firefox,Japan,JPY,False
+TX_67cc964f,444229.47,1,Healthcare,4,False,False,True,Chip Reader,Nigeria,NGN,True
+TX_1c181fc2,126.76,0,Grocery,0,False,False,False,Edge,France,EUR,False
+TX_6f271769,297.71,1,Gas,18,True,False,False,Safari,Canada,CAD,False
+TX_b2e628ac,1350.19,0,Retail,2,False,False,False,Safari,USA,USD,False
+TX_06eba9da,360.65,0,Entertainment,8,False,True,False,Edge,USA,USD,False
+TX_dd84c733,328.54,1,Travel,18,False,True,False,Chrome,France,EUR,False
+TX_44c29068,15811.58,1,Restaurant,21,False,False,False,Android App,Mexico,MXN,True
+TX_0819a01d,7145.96,0,Grocery,0,False,False,False,iOS App,Brazil,BRL,False
+TX_69d1dead,81753.26,0,Restaurant,4,False,False,True,Chip Reader,Nigeria,NGN,True
+TX_801d7506,1497.13,1,Healthcare,7,False,False,False,Chrome,UK,GBP,True
+TX_815f5801,74.79,1,Travel,8,False,True,True,Chip Reader,Nigeria,NGN,True
+TX_08bab997,1563.71,1,Grocery,8,True,False,False,Edge,Germany,EUR,True
+TX_22484249,1716.81,1,Travel,10,False,True,False,Firefox,Canada,CAD,False
+TX_80450a5b,10879.36,0,Restaurant,9,False,False,False,Firefox,Mexico,MXN,False
+TX_0efe051e,143013.92,0,Gas,4,False,False,False,Safari,Nigeria,NGN,False
+TX_b458057c,1223.43,1,Grocery,2,False,False,False,Safari,Nigeria,NGN,True
+TX_81bdb6d1,26367.29,1,Restaurant,1,True,False,False,iOS App,Mexico,MXN,True
+TX_b22d87d5,8667.28,0,Retail,23,False,False,False,iOS App,Mexico,MXN,False
+TX_6007b6f9,239.32,0,Grocery,7,False,False,False,iOS App,UK,GBP,False
+TX_a267fd5a,197174.1,0,Gas,13,False,False,False,Safari,Nigeria,NGN,False
+TX_fb79911e,529.29,1,Retail,8,False,False,False,iOS App,Canada,CAD,False
+TX_6bfbe113,407.29,0,Healthcare,19,False,False,False,Safari,UK,GBP,False
+TX_65555c3e,38479.9,0,Entertainment,23,False,True,False,Android App,Japan,JPY,False
+TX_4ea83972,5235.52,1,Healthcare,19,False,False,False,Chrome,Brazil,BRL,True
+TX_29ec09fe,5233.51,1,Travel,10,False,True,False,Safari,Brazil,BRL,False
+TX_f0d29d6c,34252.8,0,Education,9,False,False,False,Edge,Russia,RUB,False
+TX_6219d984,489.74,0,Education,21,True,False,False,Chrome,UK,GBP,False
+TX_94253bc4,35888.54,0,Retail,16,False,False,False,Chrome,Russia,RUB,False
+TX_03ea82ab,325.18,0,Education,16,False,False,False,Edge,USA,USD,False
+TX_b3ccaa01,331.9,1,Travel,1,True,True,False,Chrome,Russia,RUB,True
+TX_dee3634c,317.17,0,Grocery,10,False,False,False,Safari,USA,USD,False
+TX_f6bf244e,407.1,1,Restaurant,5,True,False,False,iOS App,France,EUR,False
+TX_468e2e30,278.82,0,Healthcare,20,False,False,False,Edge,France,EUR,False
+TX_49fe517b,342.39,0,Retail,20,True,False,False,Android App,USA,USD,False
+TX_a68c6ed4,6103.91,0,Travel,3,False,True,False,Safari,Brazil,BRL,False
+TX_3fbf8b7a,136.18,0,Travel,16,False,True,False,iOS App,Singapore,SGD,False
+TX_46acb267,6917.86,1,Travel,2,False,True,True,NFC Payment,USA,USD,True
+TX_8323df28,455.12,0,Entertainment,9,False,True,False,iOS App,Australia,AUD,False
+TX_3f831aed,606.88,0,Grocery,7,True,False,False,Edge,Singapore,SGD,False
+TX_059f7081,7726.93,0,Restaurant,6,False,False,False,Edge,Mexico,MXN,False
+TX_d6eef53f,145304.26,0,Entertainment,8,False,True,False,iOS App,Nigeria,NGN,False
+TX_dd1af408,1419.28,0,Restaurant,19,False,False,False,Chrome,Australia,AUD,False
+TX_b26e96e1,336.89,0,Retail,13,True,False,False,Chrome,France,EUR,False
+TX_4060529a,311.75,0,Entertainment,22,True,True,False,iOS App,Brazil,BRL,False
+TX_473169bf,2767.27,0,Healthcare,9,True,False,False,Firefox,Brazil,BRL,False
+TX_2cfa9430,30738.09,0,Education,21,False,False,False,iOS App,Russia,RUB,False
+TX_9dbec4a7,2301.04,0,Healthcare,15,True,False,False,iOS App,Brazil,BRL,False
+TX_d412e399,1464.71,0,Travel,16,False,True,False,Chrome,Canada,CAD,False
+TX_2ff8803d,2423.58,0,Education,8,False,False,False,Firefox,Singapore,SGD,False
+TX_a9ea5984,198.54,0,Entertainment,18,False,True,False,Edge,Australia,AUD,False
+TX_cae23855,36499.5,0,Retail,12,False,False,False,Firefox,Russia,RUB,False
+TX_7c3191cd,434.74,1,Gas,19,True,False,False,iOS App,USA,USD,False
+TX_862b988b,326.74,0,Healthcare,22,True,False,False,Firefox,Canada,CAD,False
+TX_1668d6e0,757.31,1,Retail,9,False,False,False,Android App,France,EUR,False
+TX_66058a27,437.74,0,Healthcare,8,False,False,False,iOS App,USA,USD,False
+TX_f6383af7,239.14,0,Travel,7,False,True,False,Edge,Australia,AUD,False
+TX_463e2ecb,298.58,0,Healthcare,15,False,False,False,iOS App,UK,GBP,False
+TX_148ff4e4,66.47,0,Entertainment,5,False,True,False,Safari,Canada,CAD,False
+TX_9ddd930d,6950.58,0,Grocery,12,False,False,False,Firefox,Russia,RUB,False
+TX_59bbda41,128.42,0,Retail,17,False,False,False,Firefox,Germany,EUR,False
+TX_a5a0c7a0,17127.09,1,Gas,8,False,False,False,Edge,Mexico,MXN,True
+TX_8d8bca88,15235.44,0,Healthcare,16,False,False,False,Safari,Russia,RUB,False
+TX_6e814a14,978.31,0,Retail,14,False,False,False,Android App,Singapore,SGD,False
+TX_40146e34,1903.61,0,Restaurant,8,False,False,False,Edge,Canada,CAD,False
+TX_18d46e35,2144.24,1,Grocery,2,False,False,True,Magnetic Stripe,Singapore,SGD,True
+TX_edb12b6d,363.86,1,Grocery,21,False,False,False,Safari,Singapore,SGD,False
+TX_5530b10f,1188.01,0,Healthcare,13,False,False,False,Android App,Germany,EUR,False
+TX_c93a406c,326.99,1,Restaurant,7,False,False,False,iOS App,Germany,EUR,False
+TX_cffc91b9,6114.86,0,Entertainment,16,False,True,False,Chrome,Brazil,BRL,False
+TX_5d4abb19,140.55,0,Entertainment,7,False,True,False,iOS App,Canada,CAD,False
+TX_ebc4c251,28859.19,0,Education,23,False,False,False,iOS App,Russia,RUB,False
+TX_9b4083c2,1326.93,0,Education,11,False,False,False,Chrome,Brazil,BRL,False
+TX_ffa9ef40,80774.72,0,Entertainment,9,False,True,False,Chrome,Nigeria,NGN,False
+TX_9df36e67,430.71,0,Gas,13,False,False,False,Edge,USA,USD,False
+TX_eb8f993d,401.35,0,Grocery,12,False,False,False,Edge,France,EUR,False
+TX_c2e6399a,55.54,0,Restaurant,14,False,False,False,Firefox,UK,GBP,False
+TX_a1f31c2e,113281.73,1,Travel,7,False,True,True,Chip Reader,Mexico,MXN,True
+TX_91ce06d4,3322.15,1,Healthcare,18,True,False,True,Magnetic Stripe,Singapore,SGD,True
+TX_29ca747a,7730.16,1,Restaurant,15,False,False,False,Edge,Japan,JPY,False
+TX_efb52ac6,4935.99,1,Travel,2,True,True,True,Magnetic Stripe,UK,GBP,True
+TX_73a9b9c6,39989.43,1,Education,2,False,False,True,Chip Reader,Mexico,MXN,True
+TX_77804a88,1011.72,0,Restaurant,10,False,False,False,Android App,Singapore,SGD,False
+TX_6d99a1fd,411.12,0,Entertainment,17,False,True,False,Edge,France,EUR,False
+TX_d652901a,2593.51,1,Restaurant,10,False,False,False,Chrome,Brazil,BRL,False
+TX_332a740e,263.58,0,Restaurant,18,False,False,False,Firefox,Australia,AUD,False
+TX_b535a9ea,1190119.35,1,Retail,9,False,False,True,Magnetic Stripe,Nigeria,NGN,True
+TX_1420b42d,1745.29,0,Grocery,9,False,False,False,Chrome,Brazil,BRL,False
+TX_1d3d553d,693.92,0,Entertainment,23,True,True,False,Firefox,Germany,EUR,False
+TX_4ea8c253,596.01,0,Retail,10,False,False,False,iOS App,Singapore,SGD,False
+TX_22f9d8f0,8507.81,1,Retail,21,False,False,False,Edge,Brazil,BRL,True
+TX_03cbd89b,273.47,0,Entertainment,0,True,True,False,Android App,UK,GBP,False
+TX_edeaf3c2,14287.53,1,Gas,10,True,False,False,iOS App,Mexico,MXN,True
+TX_25006bdc,213.56,0,Entertainment,12,False,True,False,Android App,France,EUR,False
+TX_b2d63b01,89.02,1,Grocery,11,True,False,False,iOS App,Mexico,MXN,True
+TX_978d5edf,3275.94,0,Healthcare,17,True,False,False,Android App,Mexico,MXN,False
+TX_65952d30,464785.49,1,Entertainment,23,False,True,False,Android App,Nigeria,NGN,False
+TX_a61a0a72,105.99,0,Grocery,12,False,False,False,Chrome,USA,USD,False
+TX_c3317ae2,615.13,0,Grocery,12,False,False,False,Firefox,Brazil,BRL,False
+TX_6618674b,184.61,0,Healthcare,16,False,False,False,Edge,USA,USD,False
+TX_e615a8a5,264.21,0,Gas,12,False,False,False,Android App,Germany,EUR,False
+TX_cf2d09e0,969203.58,1,Gas,2,False,False,True,NFC Payment,Nigeria,NGN,True
+TX_fb171833,3768.41,0,Healthcare,0,True,False,False,Chrome,Mexico,MXN,False
+TX_975b13f0,412.29,0,Entertainment,8,False,True,False,Android App,France,EUR,False
+TX_0d29f150,396.15,0,Grocery,19,False,False,False,Safari,USA,USD,False
+TX_7fd35a80,37550.36,1,Grocery,4,False,False,True,NFC Payment,Mexico,MXN,True
+TX_e6092a36,2229.14,0,Education,8,True,False,False,Chrome,Singapore,SGD,False
+TX_11150930,1696.2,1,Gas,4,False,False,True,NFC Payment,Nigeria,NGN,True
+TX_9e15209e,58140.69,1,Gas,6,False,False,False,Android App,Japan,JPY,False
+TX_a25eb8d7,596.32,0,Travel,19,False,True,False,Firefox,UK,GBP,False
+TX_81890a64,2040.34,1,Healthcare,23,False,False,True,NFC Payment,Germany,EUR,True
+TX_fce7cf26,785.06,0,Restaurant,6,True,False,False,iOS App,Germany,EUR,False
+TX_60b3a0c3,67385.8,0,Retail,20,False,False,False,Firefox,Russia,RUB,False
+TX_4aa63ceb,145272.09,0,Retail,14,False,False,False,Safari,Nigeria,NGN,False
+TX_c9abd354,64920.01,0,Entertainment,21,False,True,False,Edge,Russia,RUB,False
+TX_6c4734b0,201.73,0,Gas,16,False,False,False,iOS App,Germany,EUR,False
+TX_3a326a0e,376.62,0,Travel,4,True,True,False,Safari,Australia,AUD,False
+TX_093468a1,2870.5,0,Healthcare,2,False,False,False,Safari,Brazil,BRL,False
+TX_047ad721,3.86,1,Retail,9,False,False,True,NFC Payment,Brazil,BRL,True
