@@ -6,7 +6,7 @@
 2. [Technical Stack](#2-technical-stack)
 3. [ETL Pipeline and Transformation Summary](#3-etl-pipeline-and-transformation-summary)
 4. [How to Run the Project Locally](#4-how-to-run-the-project-locally)
-5. 
+   
 ## 1. Project Overview & Goals
 This project analyzes synthetic financial transaction data to detect patterns and characteristics of fraudulent activities using Python ETL processes and data visualization techniques.
 
